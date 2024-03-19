@@ -1,0 +1,18 @@
+% !TEX root = ../main.tex
+%
+\pdfbookmark[0]{Résumé}{Résumé}
+\addchap*{Résumé}
+\label{chap:résumé}
+
+Le nombre de données produites par les systèmes ou applications Web actuels augmente rapidement en raison des nombreuses interactions avec les utilisateurs (dans le cadre par exemple, transactions boursières en temps réel, des jeux multijoueurs, des données en continu produits par Twitter, etc.). Ainsi, il existe une demande croissante, notamment dans les domaines du commerce, de la sécurité et de la recherche, pour des systèmes capables de traiter ces données en temps réel et de fournir des informations utiles dans un court laps de temps. Les systèmes de traitement des flux (SPS) répondent à ces besoins et ont été largement utilisés à cette fin. L'objectif des SPS est de traiter de grands volumes de données en temps réel en endentent un ensemble d’opérateurs dans des applications structurée en DAG.
+
+Le plupart des SPS existants, tels que Flink ou Storm, sont configurés avant leur déploiement, définissant généralement à l'avance le DAG et le nombre de répliques opérateurs. Une surestimation du nombre de répliques entraîne alors un gaspillage des ressources allouées. D'autre part, en fonction de l'interaction avec l'environnement, le taux de données en entrée peut fluctuer de manière dynamique et, par conséquent, les opérateurs peuvent être surchargés, ce qui entraîne une dégradation des performances du système. Ces SPS ne sont pas capables de s'adapter dynamiquement à la charge de travail de l'opérateur et aux variations du taux d'entrée.
+Pour résoudre ce problème, une solution consiste à augmenter dynamiquement le nombre de ressources, physiques ou logiques, allouées au SPS lorsque la demande de traitement d'un ou plusieurs opérateurs augmente.
+
+Nous présentons dans cette thèse deux approches, \rSPS{} et \pSPS{}, pour modifier dynamiquement le nombre de répliques d'un opérateur. L'approche réactive repose sur l’état courant des opérateurs calculé sur de multiples métriques. Tandis que le modèle prédictif se base sur la variation du taux d'entrée, le temps d'exécution des opérateurs et les événements en file d'attente. 
+Nous avons également étendu Storm pour reconfigurer dynamiquement le nombre de copies sans avoir à geler l’application. Notre SPS met aussi en œuvre un équilibreur de charge qui distribue les événements entrants de manière équitable entre les répliques d'un opérateur.
+
+Des expériences sur la Google Cloud Platform (GCP) ont été menées avec des applications qui traitent le flux Twitter, le trafic DNS ou les traces de flux du journal système. Nous avons évalué différentes configurations et les avons comparées avec l'implémentation originale de Storm ainsi qu'avec des travaux de pointe tels que SPS DABS-Storm qui adapte également le nombre de répliques. Les résultat montrent que notre approche permet d’améliorer de manière conséquente le nombre d’événement traité tout en réduisant les coûts.
+
+\textbf{Mots-clés:} 
+Flux de données, Traitement en temps réel, Algorithme predictive, Algorithme reactive.

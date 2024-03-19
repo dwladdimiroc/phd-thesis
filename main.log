@@ -1,0 +1,4141 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.31)  15 JAN 2024 17:08
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrreprt.cls
+Document Class: scrreprt 2021/11/13 v3.35 KOMA-Script document class (report)
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2021/11/13 v3.35 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2021/11/13 v3.35 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2021/11/13 v3.35 KOMA-Script package (file load hooks)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2021/11/13 v3.35 KOMA-Script package (using LaTeX hooks)
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2021/11/13 v3.35 KOMA-Script package (logo)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2021/11/13 v3.35 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip47
+\scr@dte@tocline@numbox=\box50
+)
+Package tocbasic Info: babel extension for `toc' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 137.
+Class scrreprt Info: You've used standard option `openright'.
+(scrreprt)           This is correct!
+(scrreprt)           Internally I'm using `open=right'.
+(scrreprt)           If you'd like to set the option with \KOMAoptions,
+(scrreprt)           you'd have to use `open=right' there
+(scrreprt)           instead of `openright', too.
+Package scrreprt Info: You've used standard option `11pt'.
+(scrreprt)             This is correct!
+(scrreprt)             Internally I'm using `fontsize=11pt'.
+(scrreprt)             If you'd like to set the option with \KOMAoptions,
+(scrreprt)             you'd have to use `fontsize=11pt' there
+(scrreprt)             instead of `11pt', too.
+Class scrreprt Info: File `scrsize11pt.clo' used to setup font sizes on input l
+ine 2487.
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
+File: scrsize11pt.clo 2021/11/13 v3.35 KOMA-Script font size class option (11pt
+)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/typearea.sty
+Package: typearea 2021/11/13 v3.35 KOMA-Script package (type area)
+\ta@bcor=\skip48
+\ta@div=\count185
+\ta@hblk=\skip49
+\ta@vblk=\skip50
+\ta@temp=\skip51
+\footheight=\skip52
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 10
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 418.25555pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 47.2316pt
+(typearea)              \oddsidemargin  = -12.5192pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 595.80026pt
+(typearea)              \topmargin      = -25.16531pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 1743.
+)
+\c@part=\count186
+\c@chapter=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\scr@dte@chapter@maxnumwidth=\skip53
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\chapter on input line 5717.
+\scr@dte@section@maxnumwidth=\skip54
+Class scrreprt Info: using compatibility default `runin=bysign'
+(scrreprt)           for `\section on input line 5728.
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\section on input line 5728.
+\scr@dte@part@maxnumwidth=\skip55
+Class scrreprt Info: using compatibility default `afterindent=true'
+(scrreprt)           for `\part on input line 5737.
+\scr@dte@subsection@maxnumwidth=\skip56
+Class scrreprt Info: using compatibility default `runin=bysign'
+(scrreprt)           for `\subsection on input line 5747.
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\subsection on input line 5747.
+\scr@dte@subsubsection@maxnumwidth=\skip57
+Class scrreprt Info: using compatibility default `runin=bysign'
+(scrreprt)           for `\subsubsection on input line 5757.
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\subsubsection on input line 5757.
+\scr@dte@paragraph@maxnumwidth=\skip58
+Class scrreprt Info: using compatibility default `runin=bysign'
+(scrreprt)           for `\paragraph on input line 5768.
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\paragraph on input line 5768.
+\scr@dte@subparagraph@maxnumwidth=\skip59
+Class scrreprt Info: using compatibility default `runin=bysign'
+(scrreprt)           for `\subparagraph on input line 5778.
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\subparagraph on input line 5778.
+\abovecaptionskip=\skip60
+\belowcaptionskip=\skip61
+\c@pti@nb@sid@b@x=\box51
+Package tocbasic Info: babel extension for `lof' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 6958.
+
+\scr@dte@figure@maxnumwidth=\skip62
+\c@figure=\count193
+Package tocbasic Info: babel extension for `lot' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 6974.
+
+\scr@dte@table@maxnumwidth=\skip63
+\c@table=\count194
+Class scrreprt Info: Redefining `\numberline' on input line 7142.
+\bibindent=\dimen138
+)
+(./setup.tex (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfcomment/pdfcomment.sty
+Package: pdfcomment 2018/11/01 pdfcomment.sty v2.4a - Josef Kleber (C) 2008-201
+2, 2015-2016, 2018
+
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
+)
+\XKV@depth=\count195
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\c@pc@count@i=\count196
+\c@pc@count@ii=\count197
+\c@pc@count@iii=\count198
+\c@pc@count@iv=\count199
+\pc@mathannot@box=\box52
+\pc@nullbox=\box53
+\pc@dima=\skip64
+\pc@dimb=\skip65
+\pc@Sposx=\skip66
+\pc@Sposy=\skip67
+\pc@Eposx=\skip68
+\pc@Eposy=\skip69
+\pc@column=\skip70
+\pc@box@width=\skip71
+\pc@box@height=\skip72
+\pc@box@depth=\skip73
+
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count266
+)
+(/usr/share/texlive/texmf-dist/tex/latex/datetime2/datetime2.sty
+Package: datetime2 2021/03/21 v1.5.7 (NLCT) date and time formats
+
+(/usr/share/texlive/texmf-dist/tex/latex/tracklang/tracklang.sty
+Package: tracklang 2020/06/30 v1.5 (NLCT) Track Languages
+
+(/usr/share/texlive/texmf-dist/tex/generic/tracklang/tracklang.tex)))
+(/usr/share/texlive/texmf-dist/tex/latex/zref/zref-savepos.sty
+Package: zref-savepos 2020-07-03 v2.32 Module savepos for zref (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2020-07-03 v2.32 Module base for zref (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 764.
+Package zref Info: New property: default on input line 765.
+Package zref Info: New property: page on input line 766.
+)
+Package zref Info: New property list: savepos on input line 80.
+Package zref Info: New property: posx on input line 82.
+Package zref Info: New property: posy on input line 83.
+)
+\c@zref@unique=\count267
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count268
+\calc@Bcount=\count269
+\calc@Adimen=\dimen139
+\calc@Bdimen=\dimen140
+\calc@Askip=\skip74
+\calc@Bskip=\skip75
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count270
+\calc@Cskip=\skip76
+)
+(/usr/share/texlive/texmf-dist/tex/latex/marginnote/marginnote.sty
+Package: marginnote 2018/08/09 v1.4b non floating margin notes for LaTeX
+\c@mn@abspage=\count271
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/soulpos/soulpos.sty
+Package: soulpos 2021/10/15 v1.2 Fancy underlining
+\ulp@subcnt=\count272
+\ulp@cnt=\count273
+\ulp@out=\write3
+\ulp@in=\read2
+\ulwidth=\dimen141
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen142
+\Hy@linkcounter=\count274
+\Hy@pagecounter=\count275
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count276
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `draft' set `false' on input line 4073.
+Package hyperref Info: Option `unicode' set `true' on input line 4073.
+
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count277
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen143
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count278
+\Field@Width=\dimen144
+\Fld@charsize=\dimen145
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count279
+\c@Item=\count280
+\c@Hfootnote=\count281
+)
+Package hyperref Info: Driver: hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count282
+\c@bookmark@seq@number=\count283
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip77
+)
+Package zref Info: New property list: pdfcomment on input line 2735.
+Package zref Info: New property: PCPDFOBJID on input line 2736.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/morewrites/morewrites.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-01-21 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count284
+\l__pdf_internal_box=\box54
+))
+(/usr/share/texlive/texmf-dist/tex/latex/morewrites/primargs.sty
+Package: primargs 2018/12/29 Parsing arguments of primitives
+)
+Package: morewrites 2018/12/29 Always room for a new write
+\g__morewrites_later_int=\count285
+\l__morewrites_user_int=\count286
+\g__morewrites_iow=\write4
+\g__morewrites_ior=\read3
+\g__morewrites_group_level_int=\count287
+\g__morewrites_shipout_box=\box55
+\l__morewrites_collect_next_int=\count288
+\g__morewrites_alloc_write_int=\count289
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count290
+\Gm@cntv=\count291
+\c@Gm@tempcnt=\count292
+\Gm@bindingoffset=\dimen146
+\Gm@wd@mp=\dimen147
+\Gm@odd@mp=\dimen148
+\Gm@even@mp=\dimen149
+\Gm@layoutwidth=\dimen150
+\Gm@layoutheight=\dimen151
+\Gm@layouthoffset=\dimen152
+\Gm@layoutvoffset=\dimen153
+\Gm@dimlist=\toks21
+)
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrhack.sty
+Package: scrhack 2021/11/13 v3.35 KOMA-Script package (hacking other packages)
+
+(/usr/share/texlive/texmf-dist/tex/latex/xpatch/xpatch.sty
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2022-01-12 L3 Experimental document command parser
+))
+Package scrhack Info: hyperref hack deactivated because of
+(scrhack)             detection of hyperref version, that doesn't
+(scrhack)             need that hack, on input line 162.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count293
+\lst@gtempboxa=\box56
+\lst@token=\toks22
+\lst@length=\count294
+\lst@currlwidth=\dimen154
+\lst@column=\count295
+\lst@pos=\count296
+\lst@lostspace=\dimen155
+\lst@width=\dimen156
+\lst@newlines=\count297
+\lst@lineno=\count298
+\lst@maxwidth=\dimen157
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count299
+\lst@skipnumbers=\count300
+\lst@framebox=\box57
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package scrhack Info: loading listings hack on input line 64.
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/listings.hak
+File: listings.hak 2021/11/13 v3.35 KOMA-Script scrhack part (hacking package l
+istings)
+Package tocbasic Info: babel extension for `lol' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 143.
+Package scrhack Info: redefining \lstlistoflistings on input line 143.
+)
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks23
+\pgfutil@tempdima=\dimen158
+\pgfutil@tempdimb=\dimen159
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box58
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen160
+\Gin@req@width=\dimen161
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks24
+\pgfkeys@temptoks=\toks25
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks26
+))
+\pgf@x=\dimen162
+\pgf@y=\dimen163
+\pgf@xa=\dimen164
+\pgf@ya=\dimen165
+\pgf@xb=\dimen166
+\pgf@yb=\dimen167
+\pgf@xc=\dimen168
+\pgf@yc=\dimen169
+\pgf@xd=\dimen170
+\pgf@yd=\dimen171
+\w@pgf@writea=\write19
+\r@pgf@reada=\read4
+\c@pgf@counta=\count301
+\c@pgf@countb=\count302
+\c@pgf@countc=\count303
+\c@pgf@countd=\count304
+\t@pgf@toka=\toks27
+\t@pgf@tokb=\toks28
+\t@pgf@tokc=\toks29
+\pgf@sys@id@count=\count305
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count306
+\pgfsyssoftpath@bigbuffer@items=\count307
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen172
+\pgfmath@count=\count308
+\pgfmath@box=\box59
+\pgfmath@toks=\toks30
+\pgfmath@stack@operand=\toks31
+\pgfmath@stack@operation=\toks32
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count309
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen173
+\pgf@picmaxx=\dimen174
+\pgf@picminy=\dimen175
+\pgf@picmaxy=\dimen176
+\pgf@pathminx=\dimen177
+\pgf@pathmaxx=\dimen178
+\pgf@pathminy=\dimen179
+\pgf@pathmaxy=\dimen180
+\pgf@xx=\dimen181
+\pgf@xy=\dimen182
+\pgf@yx=\dimen183
+\pgf@yy=\dimen184
+\pgf@zx=\dimen185
+\pgf@zy=\dimen186
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen187
+\pgf@path@lasty=\dimen188
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen189
+\pgf@shorten@start@additional=\dimen190
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box60
+\pgf@hbox=\box61
+\pgf@layerbox@main=\box62
+\pgf@picture@serial@count=\count310
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen191
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen192
+\pgf@pt@y=\dimen193
+\pgf@pt@temp=\dimen194
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen195
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen196
+\pgf@sys@shading@range@num=\count311
+\pgf@shadingcount=\count312
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box63
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box64
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen197
+\pgf@nodesepend=\dimen198
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen199
+\pgffor@skip=\dimen256
+\pgffor@stack=\toks33
+\pgffor@toks=\toks34
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count313
+\pgfplotmarksize=\dimen257
+)
+\tikz@lastx=\dimen258
+\tikz@lasty=\dimen259
+\tikz@lastxsaved=\dimen260
+\tikz@lastysaved=\dimen261
+\tikz@lastmovetox=\dimen262
+\tikz@lastmovetoy=\dimen263
+\tikzleveldistance=\dimen264
+\tikzsiblingdistance=\dimen265
+\tikz@figbox=\box65
+\tikz@figbox@bg=\box66
+\tikz@tempbox=\box67
+\tikz@tempbox@bg=\box68
+\tikztreelevel=\count314
+\tikznumberofchildren=\count315
+\tikznumberofcurrentchild=\count316
+\tikz@fig@count=\count317
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count318
+\pgfmatrixcurrentcolumn=\count319
+\pgf@matrix@numberofcolumns=\count320
+)
+\tikz@expandcount=\count321
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.
+code.tex
+File: pgflibraryarrows.meta.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowinset=\dimen266
+\pgfarrowlength=\dimen267
+\pgfarrowwidth=\dimen268
+\pgfarrowlinewidth=\dimen269
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.
+tex
+File: pgflibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\arrowsize=\dimen270
+)) (/usr/share/texlive/texmf-dist/tex/latex/import/import.sty
+Package: import 2020/04/01  v 6.2
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+Package: tcolorbox 2022/01/07 version 5.0.2 text color boxes
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks35
+\verbatim@line=\toks36
+\verbatim@in@stream=\read5
+)
+(/usr/share/texlive/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\@envbody=\toks37
+)
+\tcb@titlebox=\box69
+\tcb@upperbox=\box70
+\tcb@lowerbox=\box71
+\tcb@phantombox=\box72
+\c@tcbbreakpart=\count322
+\c@tcblayer=\count323
+\c@tcolorbox@number=\count324
+\tcb@temp=\box73
+\tcb@temp=\box74
+\tcb@temp=\box75
+\tcb@temp=\box76
+
+(/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbraster.code.tex
+Library (tcolorbox): 'tcbraster.code.tex' version '5.0.2'
+\c@tcbrastercolumn=\count325
+\c@tcbrasterrow=\count326
+\c@tcbrasternum=\count327
+\c@tcbraster=\count328
+) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '5.0.2'
+\tcb@waterbox=\box77
+(/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '5.0.2'
+)) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbbreakable.code.tex
+Library (tcolorbox): 'tcbbreakable.code.tex' version '5.0.2'
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdfcol.sty
+Package: pdfcol 2019/12/29 v1.6 Handle new color stacks for pdfTeX (HO)
+)
+Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
+\tcb@testbox=\box78
+\tcb@totalupperbox=\box79
+\tcb@totallowerbox=\box80
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbhooks.code.tex
+Library (tcolorbox): 'tcbhooks.code.tex' version '5.0.2'
+) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbtheorems.code.tex
+Library (tcolorbox): 'tcbtheorems.code.tex' version '5.0.2'
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip78
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks38
+\ex@=\dimen271
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen272
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count329
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count330
+\leftroot@=\count331
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count332
+\DOTSCASE@=\count333
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box81
+\strutbox@=\box82
+\big@size=\dimen273
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count334
+\c@MaxMatrixCols=\count335
+\dotsspace@=\muskip17
+\c@parentequation=\count336
+\dspbrk@lvl=\count337
+\tag@help=\toks39
+\row@=\count338
+\column@=\count339
+\maxfields@=\count340
+\andhelp@=\toks40
+\eqnshift@=\dimen274
+\alignsep@=\dimen275
+\tagshift@=\dimen276
+\tagwidth@=\dimen277
+\totwidth@=\dimen278
+\lineht@=\dimen279
+\@envbody=\toks41
+\multlinegap=\skip79
+\multlinetaggap=\skip80
+\mathdisplay@stack=\toks42
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex
+Library (tcolorbox): 'tcbfitting.code.tex' version '5.0.2'
+\tcbfitdim=\dimen280
+\tcb@lowerfitdim=\dimen281
+\tcb@upperfitdim=\dimen282
+\tcb@cur@hbadness=\count341
+) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbxparse.code.tex
+Library (tcolorbox): 'tcbxparse.code.tex' version '5.0.2'
+) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcblistingsutf8.code.tex
+Library (tcolorbox): 'tcblistingsutf8.code.tex' version '5.0.2'
+(/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcblistings.code.tex
+Library (tcolorbox): 'tcblistings.code.tex' version '5.0.2'
+(/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcblistingscore.code.tex
+Library (tcolorbox): 'tcblistingscore.code.tex' version '5.0.2'
+(/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbprocessing.code.tex
+Library (tcolorbox): 'tcbprocessing.code.tex' version '5.0.2'
+(/usr/share/texlive/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+))
+\c@tcblisting=\count342
+))
+(/usr/share/texlive/texmf-dist/tex/latex/listingsutf8/listingsutf8.sty
+Package: listingsutf8 2019-12-10 v1.5 Allow UTF-8 in listings input (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbexternal.code.tex
+Library (tcolorbox): 'tcbexternal.code.tex' version '5.0.2'
+) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbmagazine.code.tex
+Library (tcolorbox): 'tcbmagazine.code.tex' version '5.0.2'
+) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbvignette.code.tex
+Library (tcolorbox): 'tcbvignette.code.tex' version '5.0.2'
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code
+.tex
+File: pgflibraryfadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbposter.code.tex
+Library (tcolorbox): 'tcbposter.code.tex' version '5.0.2'
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen283
+\captionmargin@=\dimen284
+\captionwidth=\dimen285
+\caption@tempdima=\dimen286
+\caption@indent=\dimen287
+\caption@parindent=\dimen288
+\caption@hangindent=\dimen289
+Package caption Info: KOMA-Script document class detected.
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption-koma.sto
+File: caption-koma.sto 2020/09/21 v2.0b Adaption of the caption package to the 
+KOMA-Script document classes (AR)
+))
+\c@caption@flags=\count343
+\c@continuedfloat=\count344
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+\c@subfigure=\count345
+\c@subtable=\count346
+)
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
+
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+(/usr/share/texlive/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box83
+)
+\tc@llx=\dimen290
+\tc@lly=\dimen291
+\tc@urx=\dimen292
+\tc@ury=\dimen293
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen294
+\adjbox@Height=\dimen295
+\adjbox@Depth=\dimen296
+\adjbox@Totalheight=\dimen297
+\adjbox@pwidth=\dimen298
+\adjbox@pheight=\dimen299
+\adjbox@pdepth=\dimen300
+\adjbox@ptotalheight=\dimen301
+
+(/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count347
+)
+(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box84
+\sift@deathcycles=\count348
+\@vwid@loff=\dimen302
+\@vwid@roff=\dimen303
+))
+(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen304
+\ar@mcellbox=\box85
+\extrarowheight=\dimen305
+\NC@list=\toks43
+\extratabsurround=\skip81
+\backup@length=\skip82
+\ar@cellbox=\box86
+)
+\everycr=\toks44
+\minrowclearance=\skip83
+)
+(/usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+) (./macros.sty
+(/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count349
+\float@exts=\toks45
+\float@box=\box87
+\@float@everytoks=\toks46
+\@floatcapt=\box88
+)
+Package scrhack Info: loading float hack on input line 32.
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/float.hak
+File: float.hak 2021/11/13 v3.35 KOMA-Script scrhack part (hacking package floa
+t)
+Package scrhack Info: redefining \newfloat on input line 163.
+Package scrhack Info: redefining \listof on input line 163.
+Package scrhack Info: undefining \float@addtolists on input line 163.
+)
+Package tocbasic Info: babel extension for `loa' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 95.
+\@float@every@algorithm=\toks47
+\c@algorithm=\count350
+)
+(/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count351
+\c@ALC@line=\count352
+\c@ALC@rem=\count353
+\c@ALC@depth=\count354
+\ALC@tlm=\skip84
+\algorithmicindent=\skip85
+))
+(/usr/share/texlive/texmf-dist/tex/latex/paralist/paralist.sty
+Package: paralist 2017/01/22 v2.7 Extended list environments
+\pltopsep=\skip86
+\plpartopsep=\skip87
+\plitemsep=\skip88
+\plparsep=\skip89
+\pl@lab=\toks48
+)
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip90
+\enit@outerparindent=\dimen306
+\enit@toks=\toks49
+\enit@inbox=\box89
+\enit@count@id=\count355
+\enitdp@description=\count356
+)
+(/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen307
+\WF@size=\dimen308
+\c@WF@wrappedlines=\count357
+\WF@box=\box90
+\WF@everypar=\toks50
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/01/26 3.70 The Babel package
+\babel@savecnt=\count358
+\U@D=\dimen309
+\l@unhyphenated=\language11
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read6
+\bbl@dirlevel=\count359
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language6). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language6). Reported on input line 108.
+))
+(./cleanthesis.sty
+Package: cleanthesis 2019/06/21 v0.4.0 A clean LaTeX style for thesis documents
+
+ (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texmf/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/charter.sty
+Package: charter 2020/03/25 PSNFSS-v9.3 (P.Dyballa) 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2021/12/10 v3.0b Micro-typographical refinements (RS)
+\MT@toks=\toks51
+\MT@count=\count360
+\MT@tempbox=\box91
+LaTeX Info: Redefining \leftprotrusion on input line 1010.
+LaTeX Info: Redefining \rightprotrusion on input line 1018.
+LaTeX Info: Redefining \textls on input line 1173.
+\MT@outer@kern=\dimen310
+LaTeX Info: Redefining \textmicrotypecontext on input line 1759.
+\MT@listname@count=\count361
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2021/12/10 v3.0b Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 897.
+LaTeX Info: Redefining \lslig on input line 897.
+\MT@outer@space=\skip91
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2021/12/10 v3.0b microtype main configuration file (RS)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+Package scrhack Info: loading setspace hack on input line 253.
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/setspace.hak
+File: setspace.hak 2021/11/13 v3.35 KOMA-Script scrhack part (hacking package s
+etspace)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen311
+\TX@old@table=\dimen312
+\TX@old@col=\dimen313
+\TX@target=\dimen314
+\TX@delta=\dimen315
+\TX@cols=\count362
+\TX@ftn=\toks52
+)
+(/usr/share/texlive/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count363
+\c@Blindtext=\count364
+\c@blind@countparstart=\count365
+\blind@countxx=\count366
+\blindtext@numBlindtext=\count367
+\blind@countyy=\count368
+\c@blindlist=\count369
+\c@blindlistlevel=\count370
+\c@blindlist@level=\count371
+\blind@listitem=\count372
+\c@blind@listcount=\count373
+\c@blind@levelcount=\count374
+\blind@mathformula=\count375
+\blind@Mathformula=\count376
+\c@blind@randomcount=\count377
+\c@blind@randommax=\count378
+\c@blind@pangramcount=\count379
+\c@blind@pangrammax=\count380
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlayer-scrpage.sty
+Package: scrlayer-scrpage 2021/11/13 v3.35 KOMA-Script package (end user interf
+ace for scrlayer)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlayer.sty
+Package: scrlayer 2021/11/13 v3.35 KOMA-Script package (defining layers and pag
+e styles)
+Package scrlayer Info: Using already defined \footheight
+(scrlayer)             hoping, that this is a length and
+(scrlayer)             not only a macro on input line 136.
+Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 216
+2.
+)
+Package scrlayer-scrpage Info: Makeing stand-alone element `pagehead' from
+(scrlayer-scrpage)             alias to `pageheadfoot' on input line 1085.
+Package scrlayer-scrpage Info: deactivating warning for font element
+(scrlayer-scrpage)             `pagefoot' on input line 1109.
+)
+Package scrlayer-scrpage Info: auto-selection of `pagestyleset=KOMA-Script'.
+
+1: section
+1: chapter
+1: chapter
+1: section
+LaTeX Font Info:    Trying to load font information for T1+bch on input line 28
+5.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1bch.fd
+File: t1bch.fd 2004/10/18 font definitions for T1/bch.
+)
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 10
+(typearea)             BCOR = 71.13188pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 368.46324pt
+(typearea)              DIV departure   = 0%
+(typearea)              \evensidemargin = 33.00522pt
+(typearea)              \oddsidemargin  = 51.4995pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 595.80026pt
+(typearea)              \topmargin      = -25.16531pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 59.1601pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 285.
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 12
+(typearea)             BCOR = 71.13188pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 394.78204pt
+(typearea)              DIV departure   = -1%
+(typearea)              \evensidemargin = 15.45935pt
+(typearea)              \oddsidemargin  = 42.72656pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 636.60028pt
+(typearea)              \topmargin      = -39.24942pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 59.1601pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 286.
+
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
+\csq@reset=\count381
+\csq@gtype=\count382
+\csq@glevel=\count383
+\csq@qlevel=\count384
+\csq@maxlvl=\count385
+\csq@tshold=\count386
+\csq@ltx@everypar=\toks53
+
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2021-02-22 v5.2l csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+)
+Package csquotes Info: Enabling strict warnings.
+Package csquotes Info: Disabling multilingual quotes.
+Package csquotes Info: Redefining alias 'default' -> 'english'.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2022/02/02 v3.17 programmable bibliographies (PK/MW)
+
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count387
+
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count388
+\c@listtotal=\count389
+\c@listcount=\count390
+\c@liststart=\count391
+\c@liststop=\count392
+\c@citecount=\count393
+\c@citetotal=\count394
+\c@multicitecount=\count395
+\c@multicitetotal=\count396
+\c@instcount=\count397
+\c@maxnames=\count398
+\c@minnames=\count399
+\c@maxitems=\count400
+\c@minitems=\count401
+\c@citecounter=\count402
+\c@maxcitecounter=\count403
+\c@savedcitecounter=\count404
+\c@uniquelist=\count405
+\c@uniquename=\count406
+\c@refsection=\count407
+\c@refsegment=\count408
+\c@maxextratitle=\count409
+\c@maxextratitleyear=\count410
+\c@maxextraname=\count411
+\c@maxextradate=\count412
+\c@maxextraalpha=\count413
+\c@abbrvpenalty=\count414
+\c@highnamepenalty=\count415
+\c@lownamepenalty=\count416
+\c@maxparens=\count417
+\c@parenlevel=\count418
+\blx@tempcnta=\count419
+\blx@tempcntb=\count420
+\blx@tempcntc=\count421
+\c@blx@maxsection=\count422
+\c@blx@maxsegment@0=\count423
+\blx@notetype=\count424
+\blx@parenlevel@text=\count425
+\blx@parenlevel@foot=\count426
+\c@blx@sectionciteorder@0=\count427
+\blx@entrysetcounter=\count428
+\blx@biblioinstance=\count429
+\labelnumberwidth=\skip92
+\labelalphawidth=\skip93
+\biblabelsep=\skip94
+\bibitemsep=\skip95
+\bibnamesep=\skip96
+\bibinitsep=\skip97
+\bibparsep=\skip98
+\bibhang=\skip99
+\blx@bcfin=\read7
+\blx@bcfout=\write20
+\blx@langwohyphens=\language12
+\c@mincomprange=\count430
+\c@maxcomprange=\count431
+\c@mincompwidth=\count432
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2022/02/02 v3.17 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'alphabetic.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count433
+\c@savedafterword=\count434
+\c@annotator=\count435
+\c@savedannotator=\count436
+\c@author=\count437
+\c@savedauthor=\count438
+\c@bookauthor=\count439
+\c@savedbookauthor=\count440
+\c@commentator=\count441
+\c@savedcommentator=\count442
+\c@editor=\count443
+\c@savededitor=\count444
+\c@editora=\count445
+\c@savededitora=\count446
+\c@editorb=\count447
+\c@savededitorb=\count448
+\c@editorc=\count449
+\c@savededitorc=\count450
+\c@foreword=\count451
+\c@savedforeword=\count452
+\c@holder=\count453
+\c@savedholder=\count454
+\c@introduction=\count455
+\c@savedintroduction=\count456
+\c@namea=\count457
+\c@savednamea=\count458
+\c@nameb=\count459
+\c@savednameb=\count460
+\c@namec=\count461
+\c@savednamec=\count462
+\c@translator=\count463
+\c@savedtranslator=\count464
+\c@shortauthor=\count465
+\c@savedshortauthor=\count466
+\c@shorteditor=\count467
+\c@savedshorteditor=\count468
+\c@labelname=\count469
+\c@savedlabelname=\count470
+\c@institution=\count471
+\c@savedinstitution=\count472
+\c@lista=\count473
+\c@savedlista=\count474
+\c@listb=\count475
+\c@savedlistb=\count476
+\c@listc=\count477
+\c@savedlistc=\count478
+\c@listd=\count479
+\c@savedlistd=\count480
+\c@liste=\count481
+\c@savedliste=\count482
+\c@listf=\count483
+\c@savedlistf=\count484
+\c@location=\count485
+\c@savedlocation=\count486
+\c@organization=\count487
+\c@savedorganization=\count488
+\c@origlocation=\count489
+\c@savedoriglocation=\count490
+\c@origpublisher=\count491
+\c@savedorigpublisher=\count492
+\c@publisher=\count493
+\c@savedpublisher=\count494
+\c@language=\count495
+\c@savedlanguage=\count496
+\c@origlanguage=\count497
+\c@savedoriglanguage=\count498
+\c@pageref=\count499
+\c@savedpageref=\count500
+\shorthandwidth=\skip100
+\shortjournalwidth=\skip101
+\shortserieswidth=\skip102
+\shorttitlewidth=\skip103
+\shortauthorwidth=\skip104
+\shorteditorwidth=\skip105
+\locallabelnumberwidth=\skip106
+\locallabelalphawidth=\skip107
+\localshorthandwidth=\skip108
+\localshortjournalwidth=\skip109
+\localshortserieswidth=\skip110
+\localshorttitlewidth=\skip111
+\localshortauthorwidth=\skip112
+\localshorteditorwidth=\skip113
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load BibTeX backend compatibility...
+Package biblatex Info: ... file 'blx-bibtex.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-bibtex.def
+File: blx-bibtex.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
+
+
+Package biblatex Warning: Using fall-back BibTeX(8) backend:
+(biblatex)                functionality may be reduced/unavailable.
+
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
+\c@textcitecount=\count501
+\c@textcitetotal=\count502
+\c@textcitemaxnames=\count503
+\c@biburlbigbreakpenalty=\count504
+\c@biburlbreakpenalty=\count505
+\c@biburlnumpenalty=\count506
+\c@biburlucpenalty=\count507
+\c@biburllcpenalty=\count508
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count509
+)
+Package biblatex Info: Trying to load natbib compatibility...
+Package biblatex Info: ... file 'blx-natbib.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-natbib.def
+File: blx-natbib.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
+ overwriting.
+)
+Package biblatex Info: Trying to load bibliography style 'alphabetic'...
+Package biblatex Info: ... file 'alphabetic.bbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/alphabetic.bbx
+File: alphabetic.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count510
+\c@bbx:relatedtotal=\count511
+))
+Package biblatex Info: Trying to load citation style 'alphabetic'...
+Package biblatex Info: ... file 'alphabetic.cbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/alphabetic.cbx
+File: alphabetic.cbx 2022/02/02 v3.17 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2022-01-21 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+Package: blx-case-expl3 2022/02/02 v3.17 expl3 case changing code for biblatex
+))
+1: section
+1: chapter
+1: chapter
+1: section
+\lensectionnumber=\skip114
+
+Class scrreprt Warning: Usage of package `tocloft' together
+(scrreprt)              with a KOMA-Script class is not recommended.
+(scrreprt)              I'd suggest to use options like `listof=entryprefix',
+(scrreprt)              commands like `\listoflofentryname' or
+(scrreprt)              `\listoflotentryname', and `\DeclareTOCStyleEntry' or
+(scrreprt)              `\RedeclareSectionCommand' instead of this package,
+(scrreprt)              because it breaks several KOMA-Script features of
+(scrreprt)              the list of figures, list of tables and table of
+(scrreprt)              contents, i.e., options like `listof=numbered',
+(scrreprt)              `listof=flat or `toc=flat', commands like
+(scrreprt)              `\BeforeTOCHead{...}' and `\AfterTOCHead{...}',
+(scrreprt)              `\BeforeStartingTOC{...}' and \AfterStartingTOC{...}',
+(scrreprt)              all features of `\DeclareTOCStyleEntry',
+(scrreprt)              and the ToC entry features of `\DeclareSecionCommand'
+(scrreprt)              and `\RedeclareSectionCommand' of levels
+(scrreprt)              `part', `section', `subsection',
+(scrreprt)              `subsubsection', `paragraph' and `subparagraph'.
+(scrreprt)              Nevertheless, using requested
+(scrreprt)              package `tocloft' on input line 694.
+
+(/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip115
+\cftbeforetoctitleskip=\skip116
+\cftaftertoctitleskip=\skip117
+\cftbeforepartskip=\skip118
+\cftpartnumwidth=\skip119
+\cftpartindent=\skip120
+\cftbeforechapskip=\skip121
+\cftchapindent=\skip122
+\cftchapnumwidth=\skip123
+\cftbeforesecskip=\skip124
+\cftsecindent=\skip125
+\cftsecnumwidth=\skip126
+\cftbeforesubsecskip=\skip127
+\cftsubsecindent=\skip128
+\cftsubsecnumwidth=\skip129
+\cftbeforesubsubsecskip=\skip130
+\cftsubsubsecindent=\skip131
+\cftsubsubsecnumwidth=\skip132
+\cftbeforeparaskip=\skip133
+\cftparaindent=\skip134
+\cftparanumwidth=\skip135
+\cftbeforesubparaskip=\skip136
+\cftsubparaindent=\skip137
+\cftsubparanumwidth=\skip138
+\cftbeforeloftitleskip=\skip139
+\cftafterloftitleskip=\skip140
+\cftbeforefigskip=\skip141
+\cftfigindent=\skip142
+\cftfignumwidth=\skip143
+\c@lofdepth=\count512
+\c@lotdepth=\count513
+\cftbeforelottitleskip=\skip144
+\cftafterlottitleskip=\skip145
+\cftbeforetabskip=\skip146
+\cfttabindent=\skip147
+\cfttabnumwidth=\skip148
+)
+\cftbeforelistingsskip=\skip149
+\cftlistingsindent=\skip150
+\cftlistingsnumwidth=\skip151
+\cftbeforeloltitleskip=\skip152
+\cftafterloltitleskip=\skip153
+)
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
+File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
+)
+Package hyperref Info: Option `plainpages' set `false' on input line 118.
+Package hyperref Info: Option `colorlinks' set `false' on input line 118.
+Package hyperref Info: Option `breaklinks' set `true' on input line 118.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 118.
+
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 118.
+)
+(./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+Package scrbase Info: activating english \contentsname on input line 31.
+Package scrbase Info: activating english \listfigurename on input line 31.
+Package scrbase Info: activating english \listtablename on input line 31.
+Package soulpos Info: Loading soulutf8 on input line 31.
+ (/usr/share/texlive/texmf-dist/tex/generic/soulutf8/soulutf8.sty
+Package: soulutf8 2019/12/15 v1.2 Permit use of UTF-8 characters in soul (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks54
+\SOUL@lasttoken=\toks55
+\SOUL@cmds=\toks56
+\SOUL@buffer=\toks57
+\SOUL@token=\toks58
+\SOUL@spaceskip=\skip154
+\SOUL@ttwidth=\dimen316
+\SOUL@uldp=\dimen317
+\SOUL@ulht=\dimen318
+))
+Package hyperref Info: Link coloring OFF on input line 31.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count514
+)
+LaTeX Info: Redefining \ref on input line 31.
+LaTeX Info: Redefining \pageref on input line 31.
+LaTeX Info: Redefining \nameref on input line 31.
+
+(./main.out) (./main.out)
+\@outlinefile=\write21
+\openout4 = `main.out'.
+
+Class scrreprt Info: loading recommended package `bookmark'.
+(scrreprt)           Using `bookmark' together with `hyperref' is recommended,
+(scrreprt)           because of handling of possible bookmark level gaps.
+(scrreprt)           You can avoid loading `bookmark' with KOMA-Script option
+(scrreprt)           `bookmarkpackage=false' before \begin{document} and
+(scrreprt)           you can avoid this message adding:
+(scrreprt)             \usepackage{bookmark}
+(scrreprt)           before \begin{document} on input line 31.
+
+(/usr/share/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty
+Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
+\BKM@id=\count515
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* pass: disregarded the geometry package!
+* \paperwidth=597.50793pt
+* \paperheight=845.04694pt
+* \textwidth=394.78204pt
+* \textheight=636.60028pt
+* \oddsidemargin=42.72656pt
+* \evensidemargin=15.45935pt
+* \topmargin=-39.24942pt
+* \headheight=17.0pt
+* \headsep=20.40001pt
+* \topskip=11.0pt
+* \footskip=185.0pt
+* \marginparwidth=65.797pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count516
+Package scrhack Info: undefining \float@addtolists on input line 31.
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count517
+\scratchdimen=\dimen319
+\scratchbox=\box92
+\nofMPsegments=\count518
+\nofMParguments=\count519
+\everyMPshowfont=\toks59
+\MPscratchCnt=\count520
+\MPscratchDim=\dimen320
+\MPnumerator=\count521
+\makeMPintoPDFobject=\count522
+\everyMPtoPDFconversion=\toks60
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Info: Redefining \microtypecontext on input line 31.
+Package microtype Info: Applying patch `item' on input line 31.
+Package microtype Info: Applying patch `toc' on input line 31.
+Package microtype Info: Applying patch `eqnum' on input line 31.
+
+
+Package microtype Warning: Unable to apply patch `footnote' on input line 31.
+
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 31.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-bch.cfg
+File: mt-bch.cfg 2007/03/03 v1.5 microtype config. file: Bitstream Charter (RS)
+
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
+\openout4 = `main-blx.bib'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' found.
+ (./main.bbl)
+Package biblatex Info: Reference section=0 on input line 31.
+Package biblatex Info: Reference segment=0 on input line 31.
+Package scrbase Info: activating english \figurename on input line 43.
+Package scrbase Info: activating english \tablename on input line 44.
+(./content/front/titlepages.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(79.6678pt, 446.70825pt, 71.13188pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23593pt, 56.9055pt)
+* \paperwidth=597.50793pt
+* \paperheight=845.04694pt
+* \textwidth=446.70825pt
+* \textheight=731.23593pt
+* \oddsidemargin=7.39781pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-52.7645pt
+* \headheight=17.0pt
+* \headsep=20.40001pt
+* \topskip=11.0pt
+* \footskip=185.0pt
+* \marginparwidth=65.797pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<figures/sorbonne.pdf, id=43, 143.26022pt x 57.96657pt>
+File: figures/sorbonne.pdf Graphic file (type pdf)
+<use figures/sorbonne.pdf>
+Package pdftex.def Info: figures/sorbonne.pdf  used on input line 11.
+(pdftex.def)             Requested size: 119.54425pt x 48.36958pt.
+<figures/LogoLIP6.pdf, id=44, 146.79843pt x 137.7647pt>
+File: figures/LogoLIP6.pdf Graphic file (type pdf)
+<use figures/LogoLIP6.pdf>
+Package pdftex.def Info: figures/LogoLIP6.pdf  used on input line 14.
+(pdftex.def)             Requested size: 51.54149pt x 48.36958pt.
+\openout4 = `main.mw'.
+
+ [1
+
+\openout3 = `main.upa'.
+
+
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./figures/sorbonne.pdf> <.
+/figures/LogoLIP6.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./figures/LogoLIP6.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+>] (./main.mw)
+\openout4 = `main.mw'.
+
+) (./content/front/copyright.tex
+<figures/thesis-copyright.png, id=57, 1284.8pt x 449.68pt>
+File: figures/thesis-copyright.png Graphic file (type png)
+<use figures/thesis-copyright.png>
+Package pdftex.def Info: figures/thesis-copyright.png  used on input line 13.
+(pdftex.def)             Requested size: 98.69551pt x 34.54106pt.
+)
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 6
+2.
+
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 6
+2.
+
+(/usr/share/texmf/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+62.
+
+(/usr/share/texmf/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+62.
+
+(/usr/share/texmf/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 62.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 62.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 62.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 62.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 62.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Trying to load font information for T1+qhv on input line 62
+.
+
+(/usr/share/texmf/tex/latex/tex-gyre/t1qhv.fd
+File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `qhv' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 62.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 62.
+\openout4 = `main.mw'.
+
+ [2
+
+
+ <./figures/thesis-copyright.png>] (./main.mw)
+\openout4 = `main.mw'.
+
+ (./content/front/remerciements.tex
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 4
+.
+
+(/usr/share/texmf/tex/latex/lm/t1lmss.fd
+File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmss' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <10.95> not available
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 4.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 4.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
+File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `phv' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+\openout4 = `main.mw'.
+
+ [3
+
+
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+LaTeX Font Info:    Trying to load font information for TS1+bch on input line 1
+6.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1bch.fd
+File: ts1bch.fd 2004/10/18 font definitions for TS1/bch.
+))
+\openout4 = `main.mw'.
+
+ [4] (./main.mw)
+\openout4 = `main.mw'.
+
+
+(./content/front/abstract-en.tex
+\openout4 = `main.mw'.
+
+ [5
+
+
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+)
+\openout4 = `main.mw'.
+
+ [6] (./main.mw)
+\openout4 = `main.mw'.
+
+
+(./content/front/abstract-fr.tex
+\openout4 = `main.mw'.
+
+ [7
+
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+)
+\openout4 = `main.mw'.
+
+ [8] (./main.mw)
+\openout4 = `main.mw'.
+
+ (./main.toc
+\openout4 = `main.mw'.
+
+
+[9
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [10] (./main.mw)
+\openout4 = `main.mw'.
+
+)
+\tf@toc=\write22
+\openout4 = `main.toc'.
+
+\openout4 = `main.mw'.
+
+ [11] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [12
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+
+(./content/chapters/introduction.tex
+chapter 1.
+
+Overfull \hbox (10.94998pt too wide) in paragraph at lines 3--3
+[][][][][][][][] 
+ []
+
+<figures/concepts/Web.pdf, id=264, 476.74109pt x 541.06137pt>
+File: figures/concepts/Web.pdf Graphic file (type pdf)
+<use figures/concepts/Web.pdf>
+Package pdftex.def Info: figures/concepts/Web.pdf  used on input line 12.
+(pdftex.def)             Requested size: 157.9104pt x 179.21127pt.
+LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <10> not available
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 13.
+<figures/concepts/BatchProcessing.pdf, id=268, 397.485pt x 188.6247pt>
+File: figures/concepts/BatchProcessing.pdf Graphic file (type pdf)
+<use figures/concepts/BatchProcessing.pdf>
+Package pdftex.def Info: figures/concepts/BatchProcessing.pdf  used on input li
+ne 21.
+(pdftex.def)             Requested size: 276.34622pt x 131.14127pt.
+\openout4 = `main.mw'.
+
+[1
+
+
+ <./figures/concepts/Web.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/concepts/StreamProcessing-Concept.pdf, id=301, 484.69078pt x 124.54529
+pt>
+File: figures/concepts/StreamProcessing-Concept.pdf Graphic file (type pdf)
+<use figures/concepts/StreamProcessing-Concept.pdf>
+Package pdftex.def Info: figures/concepts/StreamProcessing-Concept.pdf  used on
+ input line 38.
+(pdftex.def)             Requested size: 375.04173pt x 96.36955pt.
+\openout4 = `main.mw'.
+
+ [2 <./figures/concepts/BatchProcessing.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/concepts/SPS-Introduction.pdf, id=326, 529.01637pt x 176.5797pt>
+File: figures/concepts/SPS-Introduction.pdf Graphic file (type pdf)
+<use figures/concepts/SPS-Introduction.pdf>
+Package pdftex.def Info: figures/concepts/SPS-Introduction.pdf  used on input l
+ine 47.
+(pdftex.def)             Requested size: 375.04173pt x 125.18652pt.
+\openout4 = `main.mw'.
+
+ [3 <./figures/concepts/StreamProcessing-Concept.pdf> <./figures/concepts/SPS-I
+ntroduction.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [4] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [5]
+(./main.mw)
+\openout4 = `main.mw'.
+
+) (./content/chapters/background.tex
+\openout4 = `main.mw'.
+
+ [6] (./main.mw)
+\openout4 = `main.mw'.
+
+
+chapter 2.
+
+Overfull \hbox (10.94998pt too wide) in paragraph at lines 3--3
+[][][][][][][][] 
+ []
+
+<figures/concepts/Streaming.pdf, id=400, 403.5075pt x 241.86359pt>
+File: figures/concepts/Streaming.pdf Graphic file (type pdf)
+<use figures/concepts/Streaming.pdf>
+Package pdftex.def Info: figures/concepts/Streaming.pdf  used on input line 17.
+
+(pdftex.def)             Requested size: 242.10637pt x 145.11926pt.
+\openout4 = `main.mw'.
+
+[7
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/concepts/StreamProcessing.pdf, id=410, 376.52669pt x 298.23419pt>
+File: figures/concepts/StreamProcessing.pdf Graphic file (type pdf)
+<use figures/concepts/StreamProcessing.pdf>
+Package pdftex.def Info: figures/concepts/StreamProcessing.pdf  used on input l
+ine 33.
+(pdftex.def)             Requested size: 225.91774pt x 178.9419pt.
+\openout4 = `main.mw'.
+
+ [8 <./figures/concepts/Streaming.pdf> <./figures/concepts/StreamProcessing.pdf
+>] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [9] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/concepts/SPS-Concept.pdf, id=452, 529.01637pt x 176.5797pt>
+File: figures/concepts/SPS-Concept.pdf Graphic file (type pdf)
+<use figures/concepts/SPS-Concept.pdf>
+Package pdftex.def Info: figures/concepts/SPS-Concept.pdf  used on input line 5
+4.
+(pdftex.def)             Requested size: 317.41226pt x 105.94861pt.
+\openout4 = `main.mw'.
+
+ [10 <./figures/concepts/SPS-Concept.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [11] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [12] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/concepts/SPS-DAG.pdf, id=487, 291.00719pt x 176.5797pt>
+File: figures/concepts/SPS-DAG.pdf Graphic file (type pdf)
+<use figures/concepts/SPS-DAG.pdf>
+Package pdftex.def Info: figures/concepts/SPS-DAG.pdf  used on input line 101.
+(pdftex.def)             Requested size: 174.60565pt x 105.94861pt.
+\openout4 = `main.mw'.
+
+ [13 <./figures/concepts/SPS-DAG.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/concepts/SPS-DAG-Complex.pdf, id=512, 298.23419pt x 314.13359pt>
+File: figures/concepts/SPS-DAG-Complex.pdf Graphic file (type pdf)
+<use figures/concepts/SPS-DAG-Complex.pdf>
+Package pdftex.def Info: figures/concepts/SPS-DAG-Complex.pdf  used on input li
+ne 114.
+(pdftex.def)             Requested size: 178.9419pt x 188.4816pt.
+<figures/concepts/SPS-Tuple.pdf, id=513, 439.6425pt x 446.62859pt>
+File: figures/concepts/SPS-Tuple.pdf Graphic file (type pdf)
+<use figures/concepts/SPS-Tuple.pdf>
+Package pdftex.def Info: figures/concepts/SPS-Tuple.pdf  used on input line 124
+.
+(pdftex.def)             Requested size: 263.78752pt x 267.97922pt.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
+29.
+ (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+\openout4 = `main.mw'.
+
+ [14 <./figures/concepts/SPS-DAG-Complex.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/concepts/SPS-Operator-Parallelism-DAG.pdf, id=532, 291.00719pt x 61.18
+86pt>
+File: figures/concepts/SPS-Operator-Parallelism-DAG.pdf Graphic file (type pdf)
+
+<use figures/concepts/SPS-Operator-Parallelism-DAG.pdf>
+Package pdftex.def Info: figures/concepts/SPS-Operator-Parallelism-DAG.pdf  use
+d on input line 144.
+(pdftex.def)             Requested size: 160.05444pt x 33.65381pt.
+LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <9> not available
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 144.
+<figures/concepts/SPS-Operator-Parallelism-Logical.pdf, id=533, 307.1475pt x 32
+1.11969pt>
+File: figures/concepts/SPS-Operator-Parallelism-Logical.pdf Graphic file (type 
+pdf)
+<use figures/concepts/SPS-Operator-Parallelism-Logical.pdf>
+Package pdftex.def Info: figures/concepts/SPS-Operator-Parallelism-Logical.pdf 
+ used on input line 151.
+(pdftex.def)             Requested size: 168.93164pt x 176.61636pt.
+\openout4 = `main.mw'.
+
+ [15 <./figures/concepts/SPS-Tuple.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/concepts/SPS-Stateless-Operator.pdf, id=554, 307.1475pt x 206.6922pt>
+File: figures/concepts/SPS-Stateless-Operator.pdf Graphic file (type pdf)
+<use figures/concepts/SPS-Stateless-Operator.pdf>
+Package pdftex.def Info: figures/concepts/SPS-Stateless-Operator.pdf  used on i
+nput line 163.
+(pdftex.def)             Requested size: 184.28992pt x 124.01627pt.
+\openout4 = `main.mw'.
+
+ [16 <./figures/concepts/SPS-Operator-Parallelism-DAG.pdf> <./figures/concepts/
+SPS-Operator-Parallelism-Logical.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/concepts/SPS-Stateful-Operator.pdf, id=584, 307.1475pt x 206.6922pt>
+File: figures/concepts/SPS-Stateful-Operator.pdf Graphic file (type pdf)
+<use figures/concepts/SPS-Stateful-Operator.pdf>
+Package pdftex.def Info: figures/concepts/SPS-Stateful-Operator.pdf  used on in
+put line 174.
+(pdftex.def)             Requested size: 184.28992pt x 124.01627pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+\openout4 = `main.mw'.
+
+ [17 <./figures/concepts/SPS-Stateless-Operator.pdf> <./figures/concepts/SPS-St
+ateful-Operator.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/concepts/Storm-Logical.pdf, id=622, 485.89528pt x 248.8497pt>
+File: figures/concepts/Storm-Logical.pdf Graphic file (type pdf)
+<use figures/concepts/Storm-Logical.pdf>
+Package pdftex.def Info: figures/concepts/Storm-Logical.pdf  used on input line
+ 201.
+(pdftex.def)             Requested size: 296.08653pt x 151.6424pt.
+\openout4 = `main.mw'.
+
+ [18] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/concepts/Storm-Stream-Grouping.pdf, id=633, 463.7325pt x 397.485pt>
+File: figures/concepts/Storm-Stream-Grouping.pdf Graphic file (type pdf)
+<use figures/concepts/Storm-Stream-Grouping.pdf>
+Package pdftex.def Info: figures/concepts/Storm-Stream-Grouping.pdf  used on in
+put line 214.
+(pdftex.def)             Requested size: 296.08653pt x 253.79514pt.
+\openout4 = `main.mw'.
+
+ [19 <./figures/concepts/Storm-Logical.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [20 <./figures/concepts/Storm-Stream-Grouping.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/concepts/Storm-Logical-Parallelism.pdf, id=685, 594.30032pt x 415.5525
+pt>
+File: figures/concepts/Storm-Logical-Parallelism.pdf Graphic file (type pdf)
+<use figures/concepts/Storm-Logical-Parallelism.pdf>
+Package pdftex.def Info: figures/concepts/Storm-Logical-Parallelism.pdf  used o
+n input line 246.
+(pdftex.def)             Requested size: 296.08653pt x 207.03386pt.
+\openout4 = `main.mw'.
+
+ [21 <./figures/concepts/Storm-Logical-Parallelism.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/concepts/Storm-Physical.pdf, id=710, 320.1561pt x 321.11969pt>
+File: figures/concepts/Storm-Physical.pdf Graphic file (type pdf)
+<use figures/concepts/Storm-Physical.pdf>
+Package pdftex.def Info: figures/concepts/Storm-Physical.pdf  used on input lin
+e 264.
+(pdftex.def)             Requested size: 177.65071pt x 178.18922pt.
+<figures/concepts/Storm-Architecture.pdf, id=712, 600.32281pt x 320.1561pt>
+File: figures/concepts/Storm-Architecture.pdf Graphic file (type pdf)
+<use figures/concepts/Storm-Architecture.pdf>
+Package pdftex.def Info: figures/concepts/Storm-Architecture.pdf  used on input
+ line 277.
+(pdftex.def)             Requested size: 315.82683pt x 168.4313pt.
+\openout4 = `main.mw'.
+
+ [22 <./figures/concepts/Storm-Physical.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/concepts/Flink-Logical.pdf, id=737, 485.89528pt x 247.8861pt>
+File: figures/concepts/Flink-Logical.pdf Graphic file (type pdf)
+<use figures/concepts/Flink-Logical.pdf>
+Package pdftex.def Info: figures/concepts/Flink-Logical.pdf  used on input line
+ 295.
+(pdftex.def)             Requested size: 296.08653pt x 151.0552pt.
+\openout4 = `main.mw'.
+
+ [23 <./figures/concepts/Storm-Architecture.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/concepts/Flink-Physical.pdf, id=756, 427.5975pt x 284.98468pt>
+File: figures/concepts/Flink-Physical.pdf Graphic file (type pdf)
+<use figures/concepts/Flink-Physical.pdf>
+Package pdftex.def Info: figures/concepts/Flink-Physical.pdf  used on input lin
+e 314.
+(pdftex.def)             Requested size: 276.34622pt x 184.1768pt.
+\openout4 = `main.mw'.
+
+ [24 <./figures/concepts/Flink-Logical.pdf>]
+(./main.mw)
+\openout4 = `main.mw'.
+
+) (./content/chapters/relatedwork.tex
+\openout4 = `main.mw'.
+
+ [25 <./figures/concepts/Flink-Physical.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [26] (./main.mw)
+\openout4 = `main.mw'.
+
+
+chapter 3.
+
+Overfull \hbox (10.94998pt too wide) in paragraph at lines 3--3
+[][][][][][][][] 
+ []
+
+<figures/concepts/RW-Manual-1.pdf, id=810, 157.54858pt x 133.45859pt>
+File: figures/concepts/RW-Manual-1.pdf Graphic file (type pdf)
+<use figures/concepts/RW-Manual-1.pdf>
+Package pdftex.def Info: figures/concepts/RW-Manual-1.pdf  used on input line 1
+8.
+(pdftex.def)             Requested size: 133.91692pt x 113.44032pt.
+<figures/concepts/RW-Manual-2.pdf, id=811, 157.54858pt x 133.45859pt>
+File: figures/concepts/RW-Manual-2.pdf Graphic file (type pdf)
+<use figures/concepts/RW-Manual-2.pdf>
+Package pdftex.def Info: figures/concepts/RW-Manual-2.pdf  used on input line 2
+2.
+(pdftex.def)             Requested size: 133.91692pt x 113.44032pt.
+\openout4 = `main.mw'.
+
+[27
+
+
+ <./figures/concepts/RW-Manual-1.pdf> <./figures/concepts/RW-Manual-2.pdf>]
+(./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [28] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/concepts/RW-Automatic.pdf, id=851, 190.7928pt x 176.5797pt>
+File: figures/concepts/RW-Automatic.pdf Graphic file (type pdf)
+<use figures/concepts/RW-Automatic.pdf>
+Package pdftex.def Info: figures/concepts/RW-Automatic.pdf  used on input line 
+53.
+(pdftex.def)             Requested size: 162.17462pt x 150.09343pt.
+\openout4 = `main.mw'.
+
+ [29 <./figures/concepts/RW-Automatic.pdf>]
+(./main.mw)
+\openout4 = `main.mw'.
+
+<figures/concepts/RW-Reactive-Threshold.pdf, id=867, 343.2825pt x 225.7233pt>
+File: figures/concepts/RW-Reactive-Threshold.pdf Graphic file (type pdf)
+<use figures/concepts/RW-Reactive-Threshold.pdf>
+Package pdftex.def Info: figures/concepts/RW-Reactive-Threshold.pdf  used on in
+put line 68.
+(pdftex.def)             Requested size: 257.46123pt x 169.29204pt.
+<figures/concepts/RW-Reactive.pdf, id=869, 239.93639pt x 297.02968pt>
+File: figures/concepts/RW-Reactive.pdf Graphic file (type pdf)
+<use figures/concepts/RW-Reactive.pdf>
+Package pdftex.def Info: figures/concepts/RW-Reactive.pdf  used on input line 7
+7.
+(pdftex.def)             Requested size: 203.94688pt x 252.47641pt.
+\openout4 = `main.mw'.
+
+ [30 <./figures/concepts/RW-Reactive-Threshold.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+
+[31 <./figures/concepts/RW-Reactive.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [32] (./main.mw)
+\openout4 = `main.mw'.
+
+
+Overfull \hbox (12.0588pt too wide) in paragraph at lines 104--129
+ [][] 
+ []
+
+<figures/concepts/RW-Predictive.pdf, id=940, 471.68219pt x 343.2825pt>
+File: figures/concepts/RW-Predictive.pdf Graphic file (type pdf)
+<use figures/concepts/RW-Predictive.pdf>
+Package pdftex.def Info: figures/concepts/RW-Predictive.pdf  used on input line
+ 141.
+(pdftex.def)             Requested size: 330.17528pt x 240.2961pt.
+\openout4 = `main.mw'.
+
+[33] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [34 <./figures/concepts/RW-Predictive.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+
+[35] (./main.mw)
+\openout4 = `main.mw'.
+
+
+Overfull \hbox (26.21716pt too wide) in paragraph at lines 172--193
+ [][] 
+ []
+
+)
+\openout4 = `main.mw'.
+
+ [36] (./main.mw)
+\openout4 = `main.mw'.
+
+ (./content/chapters/system/system-storm.tex
+\openout4 = `main.mw'.
+
+ [37] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+[38
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+
+chapter 4.
+
+Overfull \hbox (10.94998pt too wide) in paragraph at lines 3--3
+[][][][][][][][] 
+ []
+
+\openout4 = `main.mw'.
+
+[39] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/concepts/ASPS-PoolReplica-1.pdf, id=1022, 296.06609pt x 205.72859pt>
+File: figures/concepts/ASPS-PoolReplica-1.pdf Graphic file (type pdf)
+<use figures/concepts/ASPS-PoolReplica-1.pdf>
+Package pdftex.def Info: figures/concepts/ASPS-PoolReplica-1.pdf  used on input
+ line 30.
+(pdftex.def)             Requested size: 197.39102pt x 137.1625pt.
+<figures/concepts/ASPS-PoolReplica-2.pdf, id=1023, 296.06609pt x 204.765pt>
+File: figures/concepts/ASPS-PoolReplica-2.pdf Graphic file (type pdf)
+<use figures/concepts/ASPS-PoolReplica-2.pdf>
+Package pdftex.def Info: figures/concepts/ASPS-PoolReplica-2.pdf  used on input
+ line 34.
+(pdftex.def)             Requested size: 197.39102pt x 136.52007pt.
+
+Overfull \hbox (18.2645pt too wide) in paragraph at lines 30--35
+ [][] 
+ []
+
+\openout4 = `main.mw'.
+
+[40 <./figures/concepts/ASPS-PoolReplica-1.pdf> <./figures/concepts/ASPS-PoolRe
+plica-2.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
+put line 58.
+) (./content/chapters/system/system-reactive.tex
+\openout4 = `main.mw'.
+
+
+[41] (./main.mw)
+\openout4 = `main.mw'.
+
+
+Overfull \hbox (21.38402pt too wide) in paragraph at lines 6--23
+[][] 
+ []
+
+
+Underfull \vbox (badness 1024) has occurred while \output is active []
+
+\openout4 = `main.mw'.
+
+ [42]
+(./main.mw)
+\openout4 = `main.mw'.
+
+<figures/concepts/RA-SPS-Metric-U.pdf, id=1081, 551.1792pt x 168.63pt>
+File: figures/concepts/RA-SPS-Metric-U.pdf Graphic file (type pdf)
+<use figures/concepts/RA-SPS-Metric-U.pdf>
+Package pdftex.def Info: figures/concepts/RA-SPS-Metric-U.pdf  used on input li
+ne 42.
+(pdftex.def)             Requested size: 315.82683pt x 96.62698pt.
+\openout4 = `main.mw'.
+
+ [43 <./figures/concepts/RA-SPS-Metric-U.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/concepts/RA-SPS-Metric-E.pdf, id=1110, 509.0217pt x 128.3997pt>
+File: figures/concepts/RA-SPS-Metric-E.pdf Graphic file (type pdf)
+<use figures/concepts/RA-SPS-Metric-E.pdf>
+Package pdftex.def Info: figures/concepts/RA-SPS-Metric-E.pdf  used on input li
+ne 59.
+(pdftex.def)             Requested size: 315.82683pt x 79.66968pt.
+<figures/concepts/RA-SPS-Metric-Q.pdf, id=1113, 551.1792pt x 168.63pt>
+File: figures/concepts/RA-SPS-Metric-Q.pdf Graphic file (type pdf)
+<use figures/concepts/RA-SPS-Metric-Q.pdf>
+Package pdftex.def Info: figures/concepts/RA-SPS-Metric-Q.pdf  used on input li
+ne 75.
+(pdftex.def)             Requested size: 315.82683pt x 96.62698pt.
+\openout4 = `main.mw'.
+
+ [44 <./figures/concepts/RA-SPS-Metric-E.pdf> <./figures/concepts/RA-SPS-Metric
+-Q.pdf>]
+(./main.mw)
+\openout4 = `main.mw'.
+
+<figures/concepts/RA-SPS-Metric-Delta.pdf, id=1163, 368.33609pt x 221.8689pt>
+File: figures/concepts/RA-SPS-Metric-Delta.pdf Graphic file (type pdf)
+<use figures/concepts/RA-SPS-Metric-Delta.pdf>
+Package pdftex.def Info: figures/concepts/RA-SPS-Metric-Delta.pdf  used on inpu
+t line 91.
+(pdftex.def)             Requested size: 197.39102pt x 118.90012pt.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 92.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 92.
+<figures/concepts/RA-SPS-Architecture.pdf, id=1165, 398.4486pt x 327.14218pt>
+File: figures/concepts/RA-SPS-Architecture.pdf Graphic file (type pdf)
+<use figures/concepts/RA-SPS-Architecture.pdf>
+Package pdftex.def Info: figures/concepts/RA-SPS-Architecture.pdf  used on inpu
+t line 102.
+(pdftex.def)             Requested size: 177.65071pt x 145.85983pt.
+\openout4 = `main.mw'.
+
+ [45 <./figures/concepts/RA-SPS-Metric-Delta.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+
+[46 <./figures/concepts/RA-SPS-Architecture.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+)
+(./content/chapters/system/system-predictive.tex
+Overfull \hbox (18.2561pt too wide) in paragraph at lines 10--32
+[][] 
+ []
+
+\openout4 = `main.mw'.
+
+[47] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/concepts/PA-SPS-PredictiveModel.pdf, id=1232, 552.14282pt x 187.66109p
+t>
+File: figures/concepts/PA-SPS-PredictiveModel.pdf Graphic file (type pdf)
+<use figures/concepts/PA-SPS-PredictiveModel.pdf>
+Package pdftex.def Info: figures/concepts/PA-SPS-PredictiveModel.pdf  used on i
+nput line 51.
+(pdftex.def)             Requested size: 355.30142pt x 120.76128pt.
+\openout4 = `main.mw'.
+
+ [48] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/concepts/PA-SPS-Dependence.pdf, id=1243, 453.61469pt x 113.4639pt>
+File: figures/concepts/PA-SPS-Dependence.pdf Graphic file (type pdf)
+<use figures/concepts/PA-SPS-Dependence.pdf>
+Package pdftex.def Info: figures/concepts/PA-SPS-Dependence.pdf  used on input 
+line 71.
+(pdftex.def)             Requested size: 315.82683pt x 79.00172pt.
+\openout4 = `main.mw'.
+
+ [49 <./figures/concepts/PA-SPS-PredictiveModel.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/concepts/PA-SPS-PredictionInput.pdf, id=1270, 766.78468pt x 292.2117pt
+>
+File: figures/concepts/PA-SPS-PredictionInput.pdf Graphic file (type pdf)
+<use figures/concepts/PA-SPS-PredictionInput.pdf>
+Package pdftex.def Info: figures/concepts/PA-SPS-PredictionInput.pdf  used on i
+nput line 104.
+(pdftex.def)             Requested size: 394.78204pt x 150.44388pt.
+\openout4 = `main.mw'.
+
+ [50 <./figures/concepts/PA-SPS-Dependence.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+[51 <./figures/concepts/PA-SPS-PredictionInput.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/concepts/PA-SPS-Architecture.pdf, id=1327, 397.485pt x 388.33081pt>
+File: figures/concepts/PA-SPS-Architecture.pdf Graphic file (type pdf)
+<use figures/concepts/PA-SPS-Architecture.pdf>
+Package pdftex.def Info: figures/concepts/PA-SPS-Architecture.pdf  used on inpu
+t line 148.
+(pdftex.def)             Requested size: 177.65071pt x 173.56215pt.
+\openout4 = `main.mw'.
+
+ [52 <./figures/concepts/PA-SPS-Architecture.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+)
+(./content/chapters/system/system-conclusion.tex
+\openout4 = `main.mw'.
+
+ [53] (./main.mw)
+\openout4 = `main.mw'.
+
+)
+(./content/chapters/exp/experiments-intro.tex
+\openout4 = `main.mw'.
+
+ [54] (./main.mw)
+\openout4 = `main.mw'.
+
+
+chapter 5.
+
+Overfull \hbox (10.94998pt too wide) in paragraph at lines 1--1
+[][][][][][][][] 
+ []
+
+\openout4 = `main.mw'.
+
+[55
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/exp/GCP.pdf, id=1389, 470.7186pt x 407.60278pt>
+File: figures/exp/GCP.pdf Graphic file (type pdf)
+<use figures/exp/GCP.pdf>
+Package pdftex.def Info: figures/exp/GCP.pdf  used on input line 21.
+(pdftex.def)             Requested size: 256.60591pt x 222.21063pt.
+<figures/exp/Dataset-TwitterGaussian.pdf, id=1392, 415.5525pt x 252.945pt>
+File: figures/exp/Dataset-TwitterGaussian.pdf Graphic file (type pdf)
+<use figures/exp/Dataset-TwitterGaussian.pdf>
+Package pdftex.def Info: figures/exp/Dataset-TwitterGaussian.pdf  used on input
+ line 35.
+(pdftex.def)             Requested size: 197.39102pt x 120.15012pt.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./figures/exp/Dataset-TwitterRaw.pdf): 
+PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figures/exp/Dataset-TwitterRaw.pdf, id=1395, 415.5525pt x 252.945pt>
+File: figures/exp/Dataset-TwitterRaw.pdf Graphic file (type pdf)
+<use figures/exp/Dataset-TwitterRaw.pdf>
+Package pdftex.def Info: figures/exp/Dataset-TwitterRaw.pdf  used on input line
+ 44.
+(pdftex.def)             Requested size: 197.39102pt x 120.15012pt.
+\openout4 = `main.mw'.
+
+[56 <./figures/exp/GCP.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/exp/Dataset-TwitterSmoothed.pdf, id=1417, 415.5525pt x 252.945pt>
+File: figures/exp/Dataset-TwitterSmoothed.pdf Graphic file (type pdf)
+<use figures/exp/Dataset-TwitterSmoothed.pdf>
+Package pdftex.def Info: figures/exp/Dataset-TwitterSmoothed.pdf  used on input
+ line 53.
+(pdftex.def)             Requested size: 197.39102pt x 120.15012pt.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./figures/exp/Dataset-DNS.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figures/exp/Dataset-DNS.pdf, id=1420, 415.5525pt x 252.945pt>
+File: figures/exp/Dataset-DNS.pdf Graphic file (type pdf)
+<use figures/exp/Dataset-DNS.pdf>
+Package pdftex.def Info: figures/exp/Dataset-DNS.pdf  used on input line 66.
+(pdftex.def)             Requested size: 197.39102pt x 120.15012pt.
+\openout4 = `main.mw'.
+
+[57 <./figures/exp/Dataset-TwitterGaussian.pdf> <./figures/exp/Dataset-TwitterR
+aw.pdf> <./figures/exp/Dataset-TwitterSmoothed.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./figures/exp/Dataset-Logs.pdf): PDF in
+clusion: found PDF version <1.7>, but at most version <1.5> allowed
+<figures/exp/Dataset-Logs.pdf, id=1445, 415.5525pt x 252.945pt>
+File: figures/exp/Dataset-Logs.pdf Graphic file (type pdf)
+<use figures/exp/Dataset-Logs.pdf>
+Package pdftex.def Info: figures/exp/Dataset-Logs.pdf  used on input line 77.
+(pdftex.def)             Requested size: 197.39102pt x 120.15012pt.
+<figures/exp/App-Twitter-Linear-1.pdf, id=1447, 411.45718pt x 64.3203pt>
+File: figures/exp/App-Twitter-Linear-1.pdf Graphic file (type pdf)
+<use figures/exp/App-Twitter-Linear-1.pdf>
+Package pdftex.def Info: figures/exp/App-Twitter-Linear-1.pdf  used on input li
+ne 94.
+(pdftex.def)             Requested size: 256.60591pt x 40.11469pt.
+<figures/exp/App-Twitter-Linear-2.pdf, id=1449, 411.45718pt x 64.3203pt>
+File: figures/exp/App-Twitter-Linear-2.pdf Graphic file (type pdf)
+<use figures/exp/App-Twitter-Linear-2.pdf>
+Package pdftex.def Info: figures/exp/App-Twitter-Linear-2.pdf  used on input li
+ne 102.
+(pdftex.def)             Requested size: 256.60591pt x 40.11469pt.
+\openout4 = `main.mw'.
+
+[58 <./figures/exp/Dataset-DNS.pdf> <./figures/exp/Dataset-Logs.pdf>]
+(./main.mw)
+\openout4 = `main.mw'.
+
+<figures/exp/App-Twitter-Complex.pdf, id=1470, 391.4625pt x 169.5936pt>
+File: figures/exp/App-Twitter-Complex.pdf Graphic file (type pdf)
+<use figures/exp/App-Twitter-Complex.pdf>
+Package pdftex.def Info: figures/exp/App-Twitter-Complex.pdf  used on input lin
+e 112.
+(pdftex.def)             Requested size: 296.08653pt x 128.27916pt.
+<figures/exp/App-Log.pdf, id=1472, 411.45718pt x 64.3203pt>
+File: figures/exp/App-Log.pdf Graphic file (type pdf)
+<use figures/exp/App-Log.pdf>
+Package pdftex.def Info: figures/exp/App-Log.pdf  used on input line 121.
+(pdftex.def)             Requested size: 256.60591pt x 40.11469pt.
+<figures/exp/App-DNS.pdf, id=1474, 411.45718pt x 64.3203pt>
+File: figures/exp/App-DNS.pdf Graphic file (type pdf)
+<use figures/exp/App-DNS.pdf>
+Package pdftex.def Info: figures/exp/App-DNS.pdf  used on input line 130.
+(pdftex.def)             Requested size: 256.60591pt x 40.11469pt.
+\openout4 = `main.mw'.
+
+ [59 <./figures/exp/App-Twitter-Linear-1.pdf> <./figures/exp/App-Twitter-Linear
+-2.pdf> <./figures/exp/App-Twitter-Complex.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+
+Underfull \vbox (badness 1565) has occurred while \output is active []
+
+\openout4 = `main.mw'.
+
+ [60 <./figures/exp/App-Log.pdf> <./figures/exp/App-DNS.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [61] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/exp/storm/Pool-Replicas.pdf, id=1556, 469.755pt x 252.945pt>
+File: figures/exp/storm/Pool-Replicas.pdf Graphic file (type pdf)
+<use figures/exp/storm/Pool-Replicas.pdf>
+Package pdftex.def Info: figures/exp/storm/Pool-Replicas.pdf  used on input lin
+e 219.
+(pdftex.def)             Requested size: 296.08653pt x 159.42952pt.
+<figures/exp/storm/Pool-Throughput.pdf, id=1559, 415.5525pt x 252.945pt>
+File: figures/exp/storm/Pool-Throughput.pdf Graphic file (type pdf)
+<use figures/exp/storm/Pool-Throughput.pdf>
+Package pdftex.def Info: figures/exp/storm/Pool-Throughput.pdf  used on input l
+ine 229.
+(pdftex.def)             Requested size: 296.08653pt x 180.2329pt.
+\openout4 = `main.mw'.
+
+
+[62] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/exp/storm/Pool-ExecutedTotal.pdf, id=1568, 415.5525pt x 252.945pt>
+File: figures/exp/storm/Pool-ExecutedTotal.pdf Graphic file (type pdf)
+<use figures/exp/storm/Pool-ExecutedTotal.pdf>
+Package pdftex.def Info: figures/exp/storm/Pool-ExecutedTotal.pdf  used on inpu
+t line 240.
+(pdftex.def)             Requested size: 296.08653pt x 180.2329pt.
+\openout4 = `main.mw'.
+
+ [63 <./figures/exp/storm/Pool-Replicas.pdf> <./figures/exp/storm/Pool-Throughp
+ut.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/exp/storm/Pool-Latency.pdf, id=1584, 415.5525pt x 252.945pt>
+File: figures/exp/storm/Pool-Latency.pdf Graphic file (type pdf)
+<use figures/exp/storm/Pool-Latency.pdf>
+Package pdftex.def Info: figures/exp/storm/Pool-Latency.pdf  used on input line
+ 250.
+(pdftex.def)             Requested size: 296.08653pt x 180.2329pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+\openout4 = `main.mw'.
+
+ [64 <./figures/exp/storm/Pool-ExecutedTotal.pdf> <./figures/exp/storm/Pool-Lat
+ency.pdf>]
+(./main.mw)
+\openout4 = `main.mw'.
+
+<figures/exp/storm/Grouping-Latency.pdf, id=1601, 415.5525pt x 252.945pt>
+File: figures/exp/storm/Grouping-Latency.pdf Graphic file (type pdf)
+<use figures/exp/storm/Grouping-Latency.pdf>
+Package pdftex.def Info: figures/exp/storm/Grouping-Latency.pdf  used on input 
+line 280.
+(pdftex.def)             Requested size: 296.08653pt x 180.2329pt.
+\openout4 = `main.mw'.
+
+ [65] (./main.mw)
+\openout4 = `main.mw'.
+
+
+Underfull \vbox (badness 2302) has occurred while \output is active []
+
+\openout4 = `main.mw'.
+
+ [66 <./figures/exp/storm/Grouping-Latency.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+)
+(./content/chapters/exp/experiments-reactive.tex
+\openout4 = `main.mw'.
+
+ [67] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [68]
+(./main.mw)
+\openout4 = `main.mw'.
+
+<figures/exp/reactive/TwitterLinear-Replicas.pdf, id=1640, 487.8225pt x 252.945
+pt>
+File: figures/exp/reactive/TwitterLinear-Replicas.pdf Graphic file (type pdf)
+<use figures/exp/reactive/TwitterLinear-Replicas.pdf>
+Package pdftex.def Info: figures/exp/reactive/TwitterLinear-Replicas.pdf  used 
+on input line 32.
+(pdftex.def)             Requested size: 296.08653pt x 153.52815pt.
+<figures/exp/reactive/TwitterLinear-Throughput.pdf, id=1643, 415.5525pt x 252.9
+45pt>
+File: figures/exp/reactive/TwitterLinear-Throughput.pdf Graphic file (type pdf)
+
+<use figures/exp/reactive/TwitterLinear-Throughput.pdf>
+Package pdftex.def Info: figures/exp/reactive/TwitterLinear-Throughput.pdf  use
+d on input line 41.
+(pdftex.def)             Requested size: 296.08653pt x 180.2329pt.
+\openout4 = `main.mw'.
+
+ [69 <./figures/exp/reactive/TwitterLinear-Replicas.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/exp/reactive/TwitterLinear-ExecutedTotal.pdf, id=1659, 415.5525pt x 25
+2.945pt>
+File: figures/exp/reactive/TwitterLinear-ExecutedTotal.pdf Graphic file (type p
+df)
+<use figures/exp/reactive/TwitterLinear-ExecutedTotal.pdf>
+Package pdftex.def Info: figures/exp/reactive/TwitterLinear-ExecutedTotal.pdf  
+used on input line 50.
+(pdftex.def)             Requested size: 296.08653pt x 180.2329pt.
+\openout4 = `main.mw'.
+
+ [70 <./figures/exp/reactive/TwitterLinear-Throughput.pdf> <./figures/exp/react
+ive/TwitterLinear-ExecutedTotal.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/exp/reactive/TwitterLinear-Latency.pdf, id=1683, 415.5525pt x 252.945p
+t>
+File: figures/exp/reactive/TwitterLinear-Latency.pdf Graphic file (type pdf)
+<use figures/exp/reactive/TwitterLinear-Latency.pdf>
+Package pdftex.def Info: figures/exp/reactive/TwitterLinear-Latency.pdf  used o
+n input line 59.
+(pdftex.def)             Requested size: 296.08653pt x 180.2329pt.
+)
+(./content/chapters/exp/experiments-predictive.tex
+\openout4 = `main.mw'.
+
+ [71 <./figures/exp/reactive/TwitterLinear-Latency.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [72] (./main.mw)
+\openout4 = `main.mw'.
+
+
+Overfull \hbox (11.10986pt too wide) in paragraph at lines 39--47
+ [][] 
+ []
+
+\openout4 = `main.mw'.
+
+[73] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/exp/predictive/TwitterLinear-Models-Throughput.pdf, id=1723, 415.5525p
+t x 252.945pt>
+File: figures/exp/predictive/TwitterLinear-Models-Throughput.pdf Graphic file (
+type pdf)
+<use figures/exp/predictive/TwitterLinear-Models-Throughput.pdf>
+Package pdftex.def Info: figures/exp/predictive/TwitterLinear-Models-Throughput
+.pdf  used on input line 58.
+(pdftex.def)             Requested size: 296.08653pt x 180.2329pt.
+\openout4 = `main.mw'.
+
+ [74 <./figures/exp/predictive/TwitterLinear-Models-Throughput.pdf>] (./main.mw
+)
+\openout4 = `main.mw'.
+
+<figures/exp/predictive/TwitterLinear-Models-Replicas.pdf, id=1735, 415.5525pt 
+x 252.945pt>
+File: figures/exp/predictive/TwitterLinear-Models-Replicas.pdf Graphic file (ty
+pe pdf)
+<use figures/exp/predictive/TwitterLinear-Models-Replicas.pdf>
+Package pdftex.def Info: figures/exp/predictive/TwitterLinear-Models-Replicas.p
+df  used on input line 72.
+(pdftex.def)             Requested size: 296.08653pt x 180.2329pt.
+<figures/exp/predictive/TwitterLinear-Storm-Replicas.pdf, id=1737, 415.5525pt x
+ 252.945pt>
+File: figures/exp/predictive/TwitterLinear-Storm-Replicas.pdf Graphic file (typ
+e pdf)
+<use figures/exp/predictive/TwitterLinear-Storm-Replicas.pdf>
+Package pdftex.def Info: figures/exp/predictive/TwitterLinear-Storm-Replicas.pd
+f  used on input line 84.
+(pdftex.def)             Requested size: 296.08653pt x 180.2329pt.
+\openout4 = `main.mw'.
+
+ [75 <./figures/exp/predictive/TwitterLinear-Models-Replicas.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/exp/predictive/TwitterLinear-Storm-Throughput.pdf, id=1753, 415.5525pt
+ x 252.945pt>
+File: figures/exp/predictive/TwitterLinear-Storm-Throughput.pdf Graphic file (t
+ype pdf)
+<use figures/exp/predictive/TwitterLinear-Storm-Throughput.pdf>
+Package pdftex.def Info: figures/exp/predictive/TwitterLinear-Storm-Throughput.
+pdf  used on input line 113.
+(pdftex.def)             Requested size: 296.08653pt x 180.2329pt.
+\openout4 = `main.mw'.
+
+ [76 <./figures/exp/predictive/TwitterLinear-Storm-Replicas.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [77 <./figures/exp/predictive/TwitterLinear-Storm-Throughput.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/exp/predictive/TwitterLinear-RW-Throughput.pdf, id=1780, 415.5525pt x 
+252.945pt>
+File: figures/exp/predictive/TwitterLinear-RW-Throughput.pdf Graphic file (type
+ pdf)
+<use figures/exp/predictive/TwitterLinear-RW-Throughput.pdf>
+Package pdftex.def Info: figures/exp/predictive/TwitterLinear-RW-Throughput.pdf
+  used on input line 141.
+(pdftex.def)             Requested size: 296.08653pt x 180.2329pt.
+<figures/exp/predictive/TwitterLinear-RW-Replicas.pdf, id=1781, 415.5525pt x 25
+2.945pt>
+File: figures/exp/predictive/TwitterLinear-RW-Replicas.pdf Graphic file (type p
+df)
+<use figures/exp/predictive/TwitterLinear-RW-Replicas.pdf>
+Package pdftex.def Info: figures/exp/predictive/TwitterLinear-RW-Replicas.pdf  
+used on input line 149.
+(pdftex.def)             Requested size: 296.08653pt x 180.2329pt.
+\openout4 = `main.mw'.
+
+ [78 <./figures/exp/predictive/TwitterLinear-RW-Throughput.pdf> <./figures/exp/
+predictive/TwitterLinear-RW-Replicas.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+
+Overfull \hbox (17.19804pt too wide) in paragraph at lines 182--190
+ [][] 
+ []
+
+<figures/exp/predictive/TwitterRaw-Replicas.pdf, id=1798, 415.5525pt x 252.945p
+t>
+File: figures/exp/predictive/TwitterRaw-Replicas.pdf Graphic file (type pdf)
+<use figures/exp/predictive/TwitterRaw-Replicas.pdf>
+Package pdftex.def Info: figures/exp/predictive/TwitterRaw-Replicas.pdf  used o
+n input line 198.
+(pdftex.def)             Requested size: 296.08653pt x 180.2329pt.
+\openout4 = `main.mw'.
+
+[79] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/exp/predictive/TwitterRaw-Throughput.pdf, id=1811, 415.5525pt x 252.94
+5pt>
+File: figures/exp/predictive/TwitterRaw-Throughput.pdf Graphic file (type pdf)
+<use figures/exp/predictive/TwitterRaw-Throughput.pdf>
+Package pdftex.def Info: figures/exp/predictive/TwitterRaw-Throughput.pdf  used
+ on input line 208.
+(pdftex.def)             Requested size: 296.08653pt x 180.2329pt.
+\openout4 = `main.mw'.
+
+ [80 <./figures/exp/predictive/TwitterRaw-Replicas.pdf>]
+(./main.mw)
+\openout4 = `main.mw'.
+
+<figures/exp/predictive/DNS-Replicas.pdf, id=1827, 415.5525pt x 252.945pt>
+File: figures/exp/predictive/DNS-Replicas.pdf Graphic file (type pdf)
+<use figures/exp/predictive/DNS-Replicas.pdf>
+Package pdftex.def Info: figures/exp/predictive/DNS-Replicas.pdf  used on input
+ line 239.
+(pdftex.def)             Requested size: 296.08653pt x 180.2329pt.
+<figures/exp/predictive/DNS-Throughput.pdf, id=1828, 415.5525pt x 252.945pt>
+File: figures/exp/predictive/DNS-Throughput.pdf Graphic file (type pdf)
+<use figures/exp/predictive/DNS-Throughput.pdf>
+Package pdftex.def Info: figures/exp/predictive/DNS-Throughput.pdf  used on inp
+ut line 246.
+(pdftex.def)             Requested size: 296.08653pt x 180.2329pt.
+
+Overfull \hbox (11.10986pt too wide) in paragraph at lines 256--264
+ [][] 
+ []
+
+
+Underfull \vbox (badness 1983) has occurred while \output is active []
+
+\openout4 = `main.mw'.
+
+ [81 <./figures/exp/predictive/TwitterRaw-Throughput.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+<figures/exp/predictive/Log-Replicas.pdf, id=1842, 415.5525pt x 252.945pt>
+File: figures/exp/predictive/Log-Replicas.pdf Graphic file (type pdf)
+<use figures/exp/predictive/Log-Replicas.pdf>
+Package pdftex.def Info: figures/exp/predictive/Log-Replicas.pdf  used on input
+ line 273.
+(pdftex.def)             Requested size: 296.08653pt x 180.2329pt.
+\openout4 = `main.mw'.
+
+ [82 <./figures/exp/predictive/DNS-Replicas.pdf> <./figures/exp/predictive/DNS-
+Throughput.pdf>]
+(./main.mw)
+\openout4 = `main.mw'.
+
+<figures/exp/predictive/Log-Throughput.pdf, id=1860, 415.5525pt x 252.945pt>
+File: figures/exp/predictive/Log-Throughput.pdf Graphic file (type pdf)
+<use figures/exp/predictive/Log-Throughput.pdf>
+Package pdftex.def Info: figures/exp/predictive/Log-Throughput.pdf  used on inp
+ut line 280.
+(pdftex.def)             Requested size: 296.08653pt x 180.2329pt.
+\openout4 = `main.mw'.
+
+ [83 <./figures/exp/predictive/Log-Replicas.pdf> <./figures/exp/predictive/Log-
+Throughput.pdf>] (./main.mw)
+\openout4 = `main.mw'.
+
+)
+(./content/chapters/exp/experiments-conclusion.tex)
+(./content/chapters/conclusion.tex
+\openout4 = `main.mw'.
+
+ [84] (./main.mw)
+\openout4 = `main.mw'.
+
+
+chapter 6.
+
+Overfull \hbox (10.94998pt too wide) in paragraph at lines 1--1
+[][][][][][][][] 
+ []
+
+\openout4 = `main.mw'.
+
+[85
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [86] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [87] (./main.mw)
+\openout4 = `main.mw'.
+
+)
+\openout4 = `main.mw'.
+
+ [88] (./main.mw)
+\openout4 = `main.mw'.
+
+
+chapter without number
+
+Overfull \hbox (1.29962pt too wide) in paragraph at lines 113--113
+[]\T1/bch/m/n/10 (-20) HamidReza Arkian, Guil-laume Pierre, Jo-han Tords-son, a
+nd Erik Elm-roth. ^^P  Model-
+ []
+
+\openout4 = `main.mw'.
+
+[89
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [90] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [91] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [92] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [93]
+(./main.mw)
+\openout4 = `main.mw'.
+
+
+
+Package biblatex Warning: The option 'labelprefix' is limited
+(biblatex)                when used with BibTeX.
+(biblatex)                Consider using Biber instead.
+
+
+Package biblatex Warning: Option 'resetnumbers' requires 'defernumbers=true'.
+(biblatex)                Ignoring 'resetnumbers=true' on input line 115.
+
+
+Package biblatex Warning: Type 'online' not found on input line 115.
+
+
+LaTeX Warning: Empty bibliography on input line 115.
+
+\openout4 = `main.mw'.
+
+[94] (./main.mw)
+\openout4 = `main.mw'.
+
+ (./main.lof
+Underfull \vbox (badness 2096) has occurred while \output is active []
+
+\openout4 = `main.mw'.
+
+ [95
+
+
+]
+(./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [96] (./main.mw)
+\openout4 = `main.mw'.
+
+)
+\tf@lof=\write23
+\openout4 = `main.lof'.
+
+\openout4 = `main.mw'.
+
+ [97] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [98
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+ (./main.lot
+Overfull \hbox (2.07959pt too wide) in paragraph at lines 21--21
+ [][] [][]\T1/bch/m/n/10.95 (-20) System met-ric val-ues of dif-fer-ent pre-dic
+-tive mod-els us-ing \T1/bch/m/it/10.95 (-20) Twit-ter Smoothed\T1/bch/m/n/10.9
+5 (-20) .[] []  
+ []
+
+)
+\tf@lot=\write24
+\openout4 = `main.lot'.
+
+
+Underfull \vbox (badness 1221) has occurred while \output is active []
+
+\openout4 = `main.mw'.
+
+ [99]
+(./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [100
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [101
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+ (./main.aux
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+
+* soulpos - computing points - it may take a few seconds *
+\openout3 = `main.upb'.
+
+ (./main.upa))
+\openout4 = `main.out'.
+
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+\openout4 = `main-blx.bib'.
+
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+\openout4 = `main.toc'.
+
+\openout4 = `main.lof'.
+
+\openout4 = `main.lot'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 56232 strings out of 480104
+ 1181981 string characters out of 5892285
+ 2005723 words of memory out of 5000000
+ 71917 multiletter control sequences out of 15000+600000
+ 640580 words of font info for 494 fonts, out of 8000000 for 9000
+ 81 hyphenation exceptions out of 8191
+ 115i,21n,120p,10599b,2465s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{R\351sum\351.0} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.4} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
+, replaced by a fixed one
+
+{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texmf/fonts/enc
+/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/us
+r/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvip
+s/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texli
+ve/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/
+type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bi
+tstrea/charter/bchbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea/
+charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea/charter/
+bchri8a.pfb></usr/share/texmf/fonts/type1/public/lm/lmex10.pfb></usr/share/texm
+f/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi
+6.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi7.pfb></usr/share/texmf/fonts
+/type1/public/lm/lmmi8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></
+usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/pu
+blic/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/s
+hare/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texmf/fonts/type1/public
+/lm/lmtt10.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qhvb.pfb></usr/sha
+re/texmf/fonts/type1/public/tex-gyre/qhvr.pfb></usr/share/texmf/fonts/type1/pub
+lic/tex-gyre/qhvri.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/
+uhvr8a.pfb>
+Output written on main.pdf (113 pages, 2020933 bytes).
+PDF statistics:
+ 2590 PDF objects out of 2984 (max. 8388607)
+ 2174 compressed objects within 22 object streams
+ 435 named destinations out of 1000 (max. 500000)
+ 91770 words of extra memory for PDF output out of 106986 (max. 10000000)
+

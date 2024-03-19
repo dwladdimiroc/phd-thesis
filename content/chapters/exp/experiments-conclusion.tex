@@ -1,0 +1,6 @@
+\section{Conclusion}
+This section evaluated two adaptive SPSs, \rSPS{} and \pSPS{}, which to dynamically adjust the number of operator replicas based on traffic fluctuations. Implemented on top of Storm, these adaptive SPS incorporate new features: a replica pool to prevent SPS restarts during changes in active replicas and Load-Aware grouping for balanced among replicas, which were evaluated improving in the performance of the adaptive SPS.
+
+RA-SPS, which is based on a reactive approach, adapts resources by analyzing short-term traffic peaks. The \textit{State} metric, composed of weighted metrics, categorizes operators as overloaded, stable, or underloaded to adapt the number of active replicas of the SPS. The evaluations showed an improvement in performance when using multic-metric compared to single-metric.
+
+PA-SPS, which is based on a predictive approach, adapts resources by analyzing historical input data and finding patterns in their behaviour. The evaluations corroborated the adaptability according to the predictive model, as well as the improvement in performance with respect to other proposals. It was also evaluated with different datasets and applications.

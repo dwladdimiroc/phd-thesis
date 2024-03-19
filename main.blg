@@ -1,0 +1,69 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: biblatex.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated field_info (elt_size=4) to 14940 items from 5000.
+Database file #1: main-blx.bib
+Database file #2: main.bib
+Warning--entry type for "PXF2CU2020" isn't style-file defined
+--line 1232 of file main.bib
+Biblatex version: 3.17
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 71 entries,
+            6399 wiz_defined-function locations,
+            1643 strings with 24075 characters,
+and the built_in function-call counts, 801157 in all, are:
+= -- 68216
+> -- 10155
+< -- 3187
++ -- 24776
+- -- 4185
+* -- 61500
+:= -- 96365
+add.period$ -- 0
+call.type$ -- 71
+change.case$ -- 1416
+chr.to.int$ -- 48
+cite$ -- 140
+duplicate$ -- 82626
+empty$ -- 66342
+format.name$ -- 6620
+if$ -- 159440
+int.to.chr$ -- 0
+int.to.str$ -- 193
+missing$ -- 0
+newline$ -- 2991
+num.names$ -- 3795
+pop$ -- 27974
+preamble$ -- 1
+purify$ -- 1980
+quote$ -- 0
+skip$ -- 14847
+stack$ -- 0
+substring$ -- 130921
+swap$ -- 13291
+text.length$ -- 2881
+text.prefix$ -- 115
+top$ -- 1
+type$ -- 2400
+warning$ -- 0
+while$ -- 11759
+width$ -- 0
+write$ -- 2921
+(There was 1 warning)

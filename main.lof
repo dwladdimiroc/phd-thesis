@@ -1,0 +1,75 @@
+\babel@toc {english}{}\relax
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Interactions on the Internet.\relax }}{1}{figure.caption.5}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Batch processing concept.\relax }}{2}{figure.caption.6}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Stream processing concept.\relax }}{3}{figure.caption.7}%
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Example of a SPS application.\relax }}{3}{figure.caption.8}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Streaming example among server and clients.\relax }}{8}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Stream processing paradigm.\relax }}{8}{figure.caption.10}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Example of the representation of the DAG in an SPS application.\relax }}{10}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces DAG in an SPS.\relax }}{13}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces DAG complex in an SPS.\relax }}{14}{figure.caption.13}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces The tuple exchange in an SPS.\relax }}{15}{figure.caption.14}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Example of parallelism of an SPS operator.\relax }}{16}{figure.caption.15}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces An example of stateless operator.\relax }}{17}{figure.caption.16}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces An example of stateful operator.\relax }}{17}{figure.caption.17}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces A Storm \textit {Topology} and components.\relax }}{19}{figure.caption.20}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Stream grouping in a Storm \textit {Topology}.\relax }}{20}{figure.caption.21}%
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Parallelism of a Storm \textit {Topology}.\relax }}{21}{figure.caption.22}%
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Storm physical architecture.\relax }}{22}{figure.caption.25}%
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Storm architecture.\relax }}{23}{figure.caption.28}%
+\contentsline {figure}{\numberline {2.15}{\ignorespaces A Flink \textit {Topology}.\relax }}{24}{figure.caption.31}%
+\contentsline {figure}{\numberline {2.16}{\ignorespaces Flink physical architecture.\relax }}{25}{figure.caption.34}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Manual adaptation of a SPS.\relax }}{27}{figure.caption.35}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Automatic adaptation in a SPS.\relax }}{29}{figure.caption.37}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Thresholds in a reactive model.\relax }}{30}{figure.caption.38}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Adaptive SPS using a \textit {reactive approach}.\relax }}{31}{figure.caption.39}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Predictive model of an adaptative SPS.\relax }}{34}{figure.caption.41}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Example of pool replicas for two operators.\relax }}{40}{figure.caption.43}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Example of the \textit {Utilisation} metric.\relax }}{43}{figure.caption.45}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Example of the \textit {Execution Time} metric.\relax }}{44}{figure.caption.46}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Example of the \textit {Queue} metric.\relax }}{44}{figure.caption.47}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Example of the evolution of the \textit {State} metric in the operator $O_i$.\relax }}{45}{figure.caption.48}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces The architecture of \textit {RA-SPS}{}.\relax }}{46}{figure.caption.49}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Example of the number of replicas calculation, according Equation \ref {eq:prediction-replicas}.\relax }}{49}{figure.caption.51}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces DAG operators dependence example.\relax }}{50}{figure.caption.52}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces DAG example of predicted received number of events according to Equation \ref {eq:prediction-input}.\relax }}{51}{figure.caption.53}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces The architecture of \textit {PA-SPS}{}.\relax }}{52}{figure.caption.54}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Development environment on GCP.\relax }}{56}{figure.caption.55}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Traffic shape of Twitter Gaussian dataset.\relax }}{57}{figure.caption.56}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Traffic shape of Twitter Raw dataset.\relax }}{57}{figure.caption.57}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Traffic shape of Twitter Smoothed dataset.\relax }}{57}{figure.caption.58}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Traffic shape of DNS dataset.\relax }}{58}{figure.caption.59}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Traffic shape of Log system dataset.\relax }}{58}{figure.caption.60}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Detection Twitter application in SPS.\relax }}{59}{figure.caption.61}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Classification Twitter application in SPS.\relax }}{59}{figure.caption.62}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Classification Twitter application in SPS.\relax }}{59}{figure.caption.63}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Log application in SPS.\relax }}{60}{figure.caption.64}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces DNS application in SPS.\relax }}{60}{figure.caption.65}%
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Total number of replicas of \textit {Storm-Pool} and \textit {Storm-Default}.\relax }}{63}{figure.caption.69}%
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Throughput of \textit {Storm-Pool} and \textit {Storm-Default}.\relax }}{63}{figure.caption.70}%
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Total number of processed events of \textit {Storm-Pool} and \textit {Storm-Default}.\relax }}{64}{figure.caption.71}%
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Comparison of latency between \textit {Storm-Default} and \textit {Storm-Pool}.\relax }}{64}{figure.caption.72}%
+\contentsline {figure}{\numberline {5.16}{\ignorespaces Comparison of latency between \textit {Load-aware grouping} and \textit {Shuffle grouping}.\relax }}{66}{figure.caption.74}%
+\contentsline {figure}{\numberline {5.17}{\ignorespaces Total number of active replicas of $\delta $, U, and Q.\relax }}{69}{figure.caption.78}%
+\contentsline {figure}{\numberline {5.18}{\ignorespaces Throughput of $\delta $, U, and Q.\relax }}{70}{figure.caption.79}%
+\contentsline {figure}{\numberline {5.19}{\ignorespaces Total number of processed events of $\delta $, U, and Q.\relax }}{70}{figure.caption.80}%
+\contentsline {figure}{\numberline {5.20}{\ignorespaces Latency of $\delta $, U, and Q. \relax }}{71}{figure.caption.81}%
+\contentsline {figure}{\numberline {5.21}{\ignorespaces Throughput of \textit {PA-SPS}{} using different predictor models.\relax }}{74}{figure.caption.85}%
+\contentsline {figure}{\numberline {5.22}{\ignorespaces Total number of replicas of \textit {PA-SPS}{} using different predictor models.\relax }}{75}{figure.caption.86}%
+\contentsline {figure}{\numberline {5.23}{\ignorespaces Total number of replicas using \textit {\textit {PA-SPS}{}} and different configurations in \textit {Storm}.\relax }}{76}{figure.caption.87}%
+\contentsline {figure}{\numberline {5.24}{\ignorespaces Throughput using \textit {\textit {PA-SPS}{}} and different configurations in \textit {Storm}.\relax }}{77}{figure.caption.89}%
+\contentsline {figure}{\numberline {5.25}{\ignorespaces Throughput using \textit {\textit {PA-SPS}{}} and \textit {DABS}.\relax }}{78}{figure.caption.91}%
+\contentsline {figure}{\numberline {5.26}{\ignorespaces Total number of replicas using \textit {\textit {PA-SPS}{}} and \textit {DABS}.\relax }}{78}{figure.caption.92}%
+\contentsline {figure}{\numberline {5.27}{\ignorespaces Total number of replicas of \textit {PA-SPS}{} using \textit {Twitter raw} dataset.\relax }}{80}{figure.caption.97}%
+\contentsline {figure}{\numberline {5.28}{\ignorespaces Throughput of \textit {PA-SPS}{} using \textit {Twitter raw} dataset.\relax }}{81}{figure.caption.98}%
+\contentsline {figure}{\numberline {5.29}{\ignorespaces Total number of replicas of \textit {PA-SPS}{} using \textit {DNS} dataset.\relax }}{82}{figure.caption.102}%
+\contentsline {figure}{\numberline {5.30}{\ignorespaces Throughput of \textit {PA-SPS}{} using \textit {DNS} dataset.\relax }}{82}{figure.caption.103}%
+\contentsline {figure}{\numberline {5.31}{\ignorespaces Total number of replicas of \textit {PA-SPS}{} using \textit {Log} dataset.\relax }}{83}{figure.caption.107}%
+\contentsline {figure}{\numberline {5.32}{\ignorespaces Throughput of \textit {PA-SPS}{} using \textit {Log} dataset.\relax }}{83}{figure.caption.108}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }

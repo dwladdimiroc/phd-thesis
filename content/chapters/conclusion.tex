@@ -1,0 +1,43 @@
+\chapter{Conclusion}
+\label{conclusion}
+The core of this research work was the adaptation of a SPS by dynamically modifying the number of operator replicas without reconfiguring the SPS. Our models adapt in an online fashion reducing event loss and end-to-end latency in the presence of data stream fluctuations.
+
+\section{Contributions}
+
+This thesis proposes two adaptive SPSs, \rSPS{} and \pSPS{}. By using a reactive and predictive approach respectively, they automatically adapt their processing logic cope with traffic dynamics. Both SPSs are an extension of Storm and include the pool of replicas and the load-aware grouping. Results showed that the use of a pool of replicas increases by $13.6\%$ of the total number of processed events, due to the non-existence of downtime in the reconfiguration of the application. It also shows a negligible increase in CPU usage, demonstrating
+that the use of inactive replicas is a viable proposal in terms of cost. Regarding the use of \textit{Load-Aware} grouping, the experiments show a $60.18\%$ decrease in latency
+compared to \textit{Shuffle Grouping}, and a negligible computational cost with only a $0.9\%$ increase in CPU usage.
+
+The work proposes two adaptive SPS: \rSPS{} (a reactive mechanism) and \pSPS{} (a predictive mechanism). Both SPSs are based on a planning algorithm that modifies the number of active replicas of an operator. Moreover, for the automation of the adaptive feature, a control-loop-based on a MAPE model was proposed. It is composed by four modules: Monitor, Analysis, Plan, and Execution. The Monitor module is responsible for the recollection of statistics necessary for the analysis of the system, either to determine its state or to predict its behaviour. The Analysis module is in charge of performing the calculations necessary for system planning, thus, this module varies according to the approach used. The reactive approach determines the state of the operator, in order to activate o deactivate replicas, and the predictive approach, determines the number of replicas needed according to the prediction models. The Plan module determines the number of activated replicas to be modified according to the defined planning algorithm. Finally, the Execution module performs the modification to the SPS.
+
+The reactive \rSPS{} (Section \ref{reactive-approach}) bases its decision on the state of an operator at runtime. To this end, three metrics were proposal: the load of the operator ($U$), the average execution time of an event ($E$), and the operator input queue ($Q$). The aim is to adapt the number active operator of replicas according to the analysis of traffic peaks in short periods of time. These metrics are integrated in a function, assigning weights to each of them. Based on the function value, the SPS can decide whether an operator is overloaded, underloaded, or stable, and therefore increases, reduces, or maintains the same number of active replicas. Performance results based on \textit{Twitter} data confirm the advantages of using the three metrics compared to a single one. The use of a multi-metric increases total event processing by up to $181.06\%$ compared to a single-metric.
+
+The \pSPS{} (Section \ref{predictive-approach}) dynamically adapts the active number of operator replicas according to the behaviour of the input data. It aims to find patterns in the traffic to anticipate possible overloads or underloads in the SPS, and then determine the number of replicas needed by operator $O_i$ during the next time interval. This value is defined by the predicted number of events received by the operator $O_i$, which is defined by the predicted number of events sent by the input data and the number of queued events. In addition, prediction also takes into account the cascade effect in the DAG, due to the dependence among operators. For the prediction of events sent by the input data, the use of a predictive model based on mathematical model or artificial intelligence models was proposed, whose performance will depend on the behaviour of the data flow. Evaluation results confirm the effectiveness of the dynamic replica adaptation of \pSPS{}. In the experiments, latency decreased by $74.44\%$ and saved resources increases by $19.94\%$, when compared to \textit{DABS}. On the other hand, we observed that the most appropriate predictor model depends on the type of input rate behavior. For instance, in the \textit{Twitter} application scenario, the best performing model was \textit{ANN}. In contrast to the \textit{DNS} scenario, where \textit{FFT} performed better in latency and throughput degradation. And finally, in the \textit{Logs} application scenario, the best performing model was \textit{Basic}, both in resource usage and latency.
+
+\section{Future work}
+
+This section discusses some future directions of the current work.
+
+\subsection{Short term}
+
+\begin{itemize}
+\item Extend both \rSPS{} and \pSPS{} in order to manage stateful operators and the perform new experiments to evaluate the cost of managing operator states.
+
+\item Considerer the parameter values of Algorithm \ref{alg:rsps-planning} (Table \ref{tab:rsps-notations}) as adaptive, i.e., they would vary according to the application execution state (e.g., operator load,  input rate fluctuation, etc.). To this end, we could use an artificial intelligence model to determine the parameterization according to the history, as well as a training database.
+
+\item Add conditions to Algorithm \ref{alg:psps-planning} in order to not to overload the physical resources (VMs or nodes) of the SPS. For this purpose, a global analysis of the system could be performed using the metrics presented in \rSPS{}.
+
+\item Evaluation of our solution against an existing benchmark, such as \cite{ShuklaCS17} or \cite{ArasuCGMMRST04}.
+
+\end{itemize}
+
+\subsection{Mid term}
+
+\begin{itemize}
+\item Design and implementation of an adaptive system that considers logical and physical resources. Therefore, in addition to the planning algorithm already proposed, we would have another one that determines whether it is necessary to modify the physical resources, either to reduce costs or to increase performance. For its design, a hierarchical system that considers both global and local components (operators) would modify the necessary resources according to different states or predictions.
+
+\item Deployment of applications using specific VMs in the Cloud, which have lower cost. For instance, in the case of GCP, the so-called \textit{E2 shared-core} machines \footnote{https://cloud.google.com/compute/docs/general-purpose-machines\#e2-shared-core} make it possible to increase the number of cores for a short period of time without the need to modify or restart the VM. So it would be possible to vertically scale the physical resources, while scaling the logical resources as well.
+
+\item Implement a hybrid adaptive SPS, which considers the reactive and predictive approaches proposed in \rSPS{} and \pSPS{}. The planning algorithm  would be determined by both current and future time window contents. To this end, a possible solution would be to have hierarchy of resource adaptations, according to the analyses performed by the two approaches.
+
+\end{itemize}
